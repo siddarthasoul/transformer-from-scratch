@@ -216,6 +216,7 @@ transformer-from-scratch/
 │   │   ├── generate.py
 │   │   ├── model/
 │   │   ├── tests/
+│   │   ├── training/
 │   │   └── train.py
 │   │
 │   ├── DL_pytorch/
@@ -223,7 +224,6 @@ transformer-from-scratch/
 │   │   ├── generate.py
 │   │   ├── model/
 │   │   ├── tests/
-│   │   ├── training/
 │   │   └── train.py
 │   │
 │   ├── tokenizer/
