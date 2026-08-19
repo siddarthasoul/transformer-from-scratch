@@ -1,0 +1,589 @@
+The cat likes milk. </s>
+The cat likes fish. </s>
+The cat likes chicken. </s>
+The cat likes rice. </s>
+The dog likes bones. </s>
+The dog likes meat. </s>
+The dog likes chicken. </s>
+The dog likes bread. </s>
+The bird likes seeds. </s>
+The bird likes worms. </s>
+The bird likes fruit. </s>
+The rabbit likes carrots. </s>
+The rabbit likes lettuce. </s>
+The rabbit likes grass. </s>
+The rabbit likes apples. </s>
+The monkey likes bananas. </s>
+The monkey likes peanuts. </s>
+The monkey likes berries. </s>
+The monkey likes mangoes. </s>
+The bear likes honey. </s>
+The bear likes berries. </s>
+The bear likes fish. </s>
+The bear likes salmon. </s>
+The horse likes hay. </s>
+The horse likes oats. </s>
+The horse likes apples. </s>
+The horse likes carrots. </s>
+The mouse likes cheese. </s>
+The mouse likes seeds. </s>
+The mouse likes grain. </s>
+The mouse likes nuts. </s>
+The fox likes meat. </s>
+The fox likes berries. </s>
+The fox likes mice. </s>
+The fox likes eggs. </s>
+The wolf likes meat. </s>
+The wolf likes bones. </s>
+The wolf likes deer. </s>
+The wolf likes rabbits. </s>
+The elephant likes grass. </s>
+The elephant likes leaves. </s>
+The elephant likes fruit. </s>
+The elephant likes sugarcane. </s>
+The panda likes bamboo. </s>
+The panda likes shoots. </s>
+The panda likes stems. </s>
+The panda likes leaves. </s>
+The koala likes eucalyptus. </s>
+The koala likes leaves. </s>
+The koala likes shoots. </s>
+The koala likes buds. </s>
+The turtle likes lettuce. </s>
+The turtle likes tomatoes. </s>
+The turtle likes berries. </s>
+The turtle likes worms. </s>
+The frog likes flies. </s>
+The frog likes bugs. </s>
+The frog likes worms. </s>
+The frog likes beetles. </s>
+The snake likes mice. </s>
+The snake likes rats. </s>
+The snake likes eggs. </s>
+The snake likes frogs. </s>
+The duck likes bread. </s>
+The duck likes seeds. </s>
+The duck likes insects. </s>
+The duck likes plants. </s>
+The pig likes slop. </s>
+The pig likes corn. </s>
+The pig likes roots. </s>
+The pig likes apples. </s>
+The sheep likes grass. </s>
+The sheep likes clover. </s>
+The sheep likes hay. </s>
+The sheep likes weeds. </s>
+The goat likes grass. </s>
+The goat likes leaves. </s>
+The goat likes twigs. </s>
+The goat likes shrubs. </s>
+The owl likes mice. </s>
+The owl likes voles. </s>
+The owl likes insects. </s>
+The owl likes frogs. </s>
+The hawk likes mice. </s>
+The hawk likes rabbits. </s>
+The hawk likes snakes. </s>
+The hawk likes birds. </s>
+The eagle likes fish. </s>
+The eagle likes rabbits. </s>
+The eagle likes ducks. </s>
+The eagle likes snakes. </s>
+The squirrel likes nuts. </s>
+The squirrel likes acorns. </s>
+The squirrel likes seeds. </s>
+The squirrel likes berries. </s>
+The hedgehog likes beetles. </s>
+The hedgehog likes worms. </s>
+The hedgehog likes snails. </s>
+The hedgehog likes eggs. </s>
+The bat likes insects. </s>
+The bat likes fruit. </s>
+The bat likes nectar. </s>
+The bat likes pollen. </s>
+The dolphin likes fish. </s>
+The dolphin likes squid. </s>
+The dolphin likes shrimp. </s>
+The dolphin likes prawns. </s>
+The whale likes krill. </s>
+The whale likes fish. </s>
+The whale likes plankton. </s>
+The shark likes fish. </s>
+The shark likes seals. </s>
+The shark likes squid. </s>
+The shark likes turtles. </s>
+The penguin likes fish. </s>
+The penguin likes krill. </s>
+The penguin likes squid. </s>
+The octopus likes crabs. </s>
+The octopus likes shrimp. </s>
+The octopus likes fish. </s>
+The crab likes algae. </s>
+The crab likes worms. </s>
+The crab likes snails. </s>
+The lobster likes fish. </s>
+The lobster likes clams. </s>
+The lobster likes worms. </s>
+The boy plays football. </s>
+The girl plays tennis. </s>
+The child reads books. </s>
+The teacher teaches math. </s>
+The boy plays basketball. </s>
+The boy plays cricket. </s>
+The boy plays baseball. </s>
+The boy plays soccer. </s>
+The girl plays badminton. </s>
+The girl plays volleyball. </s>
+The girl plays netball. </s>
+The girl plays squash. </s>
+The child reads stories. </s>
+The child reads comics. </s>
+The child reads magazines. </s>
+The child reads poems. </s>
+The teacher teaches science. </s>
+The teacher teaches history. </s>
+The teacher teaches english. </s>
+The teacher teaches physics. </s>
+The student studies chemistry. </s>
+The student studies biology. </s>
+The student studies algebra. </s>
+The student studies geometry. </s>
+The doctor cures patients. </s>
+The doctor heals wounds. </s>
+The doctor prescribes medicine. </s>
+The doctor performs surgery. </s>
+The nurse checks vitals. </s>
+The nurse bandages cuts. </s>
+The nurse administers shots. </s>
+The nurse assists doctors. </s>
+The chef cooks meals. </s>
+The chef bakes bread. </s>
+The chef roasts meat. </s>
+The chef chops vegetables. </s>
+The baker bakes cakes. </s>
+The baker bakes cookies. </s>
+The baker bakes pastries. </s>
+The baker kneads dough. </s>
+The artist paints portraits. </s>
+The artist sketches landscapes. </s>
+The artist sculpts clay. </s>
+The artist draws figures. </s>
+The musician plays guitar. </s>
+The musician plays piano. </s>
+The musician plays drums. </s>
+The musician plays violin. </s>
+The singer performs songs. </s>
+The singer records tracks. </s>
+The singer belts notes. </s>
+The singer tunes vocals. </s>
+The writer drafts novels. </s>
+The writer pens essays. </s>
+The writer types scripts. </s>
+The writer edits chapters. </s>
+The pilot flies planes. </s>
+The pilot steers jets. </s>
+The pilot lands aircraft. </s>
+The pilot navigates routes. </s>
+The driver steers cars. </s>
+The driver brakes trucks. </s>
+The driver shifts gears. </s>
+The driver parks vans. </s>
+The mechanic fixes engines. </s>
+The mechanic repairs brakes. </s>
+The mechanic changes tires. </s>
+The mechanic oils gears. </s>
+The carpenter builds chairs. </s>
+The carpenter saws wood. </s>
+The carpenter hammers nails. </s>
+The carpenter planes timber. </s>
+The plumber fixes pipes. </s>
+The plumber clears drains. </s>
+The plumber solders joints. </s>
+The plumber installs faucets. </s>
+The electrician wires houses. </s>
+The electrician fixes switches. </s>
+The electrician tests circuits. </s>
+The electrician replaces fuses. </s>
+The gardener waters plants. </s>
+The gardener prunes bushes. </s>
+The gardener mows lawns. </s>
+The gardener plants seeds. </s>
+The farmer plows fields. </s>
+The farmer sows seeds. </s>
+The farmer harvests crops. </s>
+The farmer milks cows. </s>
+The fisherman catches fish. </s>
+The fisherman casts nets. </s>
+The fisherman baits hooks. </s>
+The fisherman reels lines. </s>
+The hunter tracks deer. </s>
+The hunter aims rifles. </s>
+The hunter shoots arrows. </s>
+The hunter sets traps. </s>
+The architect designs buildings. </s>
+The architect drafts blueprints. </s>
+The architect plans layouts. </s>
+The architect sketches structures. </s>
+The engineer builds bridges. </s>
+The engineer codes software. </s>
+The engineer tests machines. </s>
+The engineer designs systems. </s>
+The scientist conducts experiments. </s>
+The scientist analyzes data. </s>
+The scientist mixes chemicals. </s>
+The scientist records observations. </s>
+The lawyer defends clients. </s>
+The lawyer files motions. </s>
+The lawyer argues cases. </s>
+The lawyer reviews contracts. </s>
+The judge sentences criminals. </s>
+The judge presides trials. </s>
+The judge evaluates evidence. </s>
+The judge delivers verdicts. </s>
+The police officer arrests suspects. </s>
+The police officer patrols streets. </s>
+The police officer directs traffic. </s>
+The police officer investigates crimes. </s>
+The firefighter puts out fires. </s>
+The firefighter rescues people. </s>
+The firefighter climbs ladders. </s>
+The firefighter operates hoses. </s>
+The postal worker delivers mail. </s>
+The postal worker sorts letters. </s>
+The postal worker scans packages. </s>
+The postal worker drives trucks. </s>
+The lion eats meat. </s>
+The tiger eats meat. </s>
+The cow eats grass. </s>
+The goat eats leaves. </s>
+The lion eats zebra. </s>
+The lion eats antelope. </s>
+The lion eats buffalo. </s>
+The lion eats wildebeest. </s>
+The tiger eats deer. </s>
+The tiger eats boar. </s>
+The tiger eats buffalo. </s>
+The tiger eats hares. </s>
+The cow eats hay. </s>
+The cow eats grain. </s>
+The cow eats silage. </s>
+The cow eats clover. </s>
+The goat eats grass. </s>
+The goat eats shrubs. </s>
+The goat eats bark. </s>
+The goat eats weeds. </s>
+The cheetah eats gazelle. </s>
+The cheetah eats impala. </s>
+The cheetah eats hares. </s>
+The cheetah eats birds. </s>
+The leopard eats monkeys. </s>
+The leopard eats deer. </s>
+The leopard eats rodents. </s>
+The leopard eats reptiles. </s>
+The hippo eats grass. </s>
+The hippo eats reeds. </s>
+The hippo eats shoots. </s>
+The hippo eats fruit. </s>
+The rhino eats grass. </s>
+The rhino eats leaves. </s>
+The rhino eats branches. </s>
+The rhino eats roots. </s>
+The zebra eats grass. </s>
+The zebra eats stems. </s>
+The zebra eats leaves. </s>
+The zebra eats shrubs. </s>
+The giraffe eats leaves. </s>
+The giraffe eats twigs. </s>
+The giraffe eats shoots. </s>
+The giraffe eats fruit. </s>
+The kangaroo eats grass. </s>
+The kangaroo eats shrubs. </s>
+The kangaroo eats moss. </s>
+The kangaroo eats ferns. </s>
+The koala eats leaves. </s>
+The koala eats bark. </s>
+The koala eats shoots. </s>
+The koala eats buds. </s>
+The panda eats bamboo. </s>
+The panda eats shoots. </s>
+The panda eats stems. </s>
+The panda eats roots. </s>
+The camel eats grass. </s>
+The camel eats thorns. </s>
+The camel eats leaves. </s>
+The camel eats saltbush. </s>
+The beaver eats bark. </s>
+The beaver eats twigs. </s>
+The beaver eats roots. </s>
+The beaver eats leaves. </s>
+The otter eats fish. </s>
+The otter eats crabs. </s>
+The otter eats frogs. </s>
+The otter eats crayfish. </s>
+The seal eats fish. </s>
+The seal eats squid. </s>
+The seal eats octopus. </s>
+The seal eats krill. </s>
+The walrus eats clams. </s>
+The walrus eats mussels. </s>
+The walrus eats snails. </s>
+The walrus eats crabs. </s>
+The polar bear eats seals. </s>
+The polar bear eats fish. </s>
+The polar bear eats whale. </s>
+The polar bear eats seabirds. </s>
+The sloth eats leaves. </s>
+The sloth eats shoots. </s>
+The sloth eats buds. </s>
+The sloth eats fruit. </s>
+The armadillo eats insects. </s>
+The armadillo eats worms. </s>
+The armadillo eats spiders. </s>
+The armadillo eats beetles. </s>
+The anteater eats ants. </s>
+The anteater eats termites. </s>
+The anteater eats larvae. </s>
+The anteater eats grubs. </s>
+The platypus eats worms. </s>
+The platypus eats insects. </s>
+The platypus eats shrimp. </s>
+The platypus eats larvae. </s>
+The lemur eats fruit. </s>
+The lemur eats leaves. </s>
+The lemur eats flowers. </s>
+The lemur eats bark. </s>
+The meerkat eats insects. </s>
+The meerkat eats spiders. </s>
+The meerkat eats scorpions. </s>
+The meerkat eats lizards. </s>
+The hyena eats meat. </s>
+The hyena eats bones. </s>
+The hyena eats carcasses. </s>
+The hyena eats insects. </s>
+The jackal eats rodents. </s>
+The jackal eats birds. </s>
+The jackal eats fruit. </s>
+The jackal eats insects. </s>
+The badger eats worms. </s>
+The badger eats insects. </s>
+The badger eats roots. </s>
+The badger eats bulbs. </s>
+The raccoon eats fruit. </s>
+The raccoon eats nuts. </s>
+The raccoon eats insects. </s>
+The raccoon eats frogs. </s>
+The skunk eats beetles. </s>
+The skunk eats grubs. </s>
+The skunk eats eggs. </s>
+The skunk eats berries. </s>
+The mole eats worms. </s>
+The mole eats grubs. </s>
+The mole eats insects. </s>
+The mole eats beetles. </s>
+The shrew eats insects. </s>
+The shrew eats worms. </s>
+The shrew eats snails. </s>
+The shrew eats mice. </s>
+The porcupine eats bark. </s>
+The porcupine eats twigs. </s>
+The porcupine eats leaves. </s>
+The porcupine eats stems. </s>
+The bison eats grass. </s>
+The bison eats herbs. </s>
+The bison eats shrubs. </s>
+The bison eats twigs. </s>
+The moose eats aquatic plants. </s>
+The moose eats leaves. </s>
+The moose eats bark. </s>
+The moose eats twigs. </s>
+The elk eats grass. </s>
+The elk eats leaves. </s>
+The elk eats bark. </s>
+The elk eats twigs. </s>
+The deer eats grass. </s>
+The deer eats leaves. </s>
+The deer eats shoots. </s>
+The deer eats acorns. </s>
+The antelope eats grass. </s>
+The antelope eats shrubs. </s>
+The antelope eats herbs. </s>
+The antelope eats leaves. </s>
+The sun is hot. </s>
+The moon is bright. </s>
+The sky is blue. </s>
+The grass is green. </s>
+The fire is hot. </s>
+The ice is cold. </s>
+The snow is white. </s>
+The coal is black. </s>
+The ocean is deep. </s>
+The desert is dry. </s>
+The mountain is tall. </s>
+The valley is deep. </s>
+The river is long. </s>
+The lake is calm. </s>
+The sea is salty. </s>
+The pond is shallow. </s>
+The wind is strong. </s>
+The breeze is gentle. </s>
+The storm is fierce. </s>
+The rain is wet. </s>
+The cloud is grey. </s>
+The night is dark. </s>
+The day is bright. </s>
+The morning is fresh. </s>
+The evening is cool. </s>
+The summer is warm. </s>
+The winter is cold. </s>
+The spring is mild. </s>
+The autumn is crisp. </s>
+The stone is hard. </s>
+The feather is soft. </s>
+The metal is tough. </s>
+The glass is fragile. </s>
+The wood is firm. </s>
+The paper is thin. </s>
+The blanket is thick. </s>
+The pillow is soft. </s>
+The road is long. </s>
+The path is narrow. </s>
+The bridge is wide. </s>
+The wall is high. </s>
+The fence is low. </s>
+The house is large. </s>
+The room is small. </s>
+The door is open. </s>
+The window is closed. </s>
+The bed is soft. </s>
+The chair is hard. </s>
+The table is wooden. </s>
+The floor is clean. </s>
+The ceiling is high. </s>
+The roof is steep. </s>
+The car is fast. </s>
+The train is heavy. </s>
+The plane is loud. </s>
+The boat is slow. </s>
+The bicycle is light. </s>
+The truck is big. </s>
+The ship is massive. </s>
+The rocket is fast. </s>
+The flower is red. </s>
+The leaf is green. </s>
+The trunk is brown. </s>
+The root is hidden. </s>
+The fruit is sweet. </s>
+The lemon is sour. </s>
+The pepper is spicy. </s>
+The salt is salty. </s>
+The sugar is sweet. </s>
+The water is clear. </s>
+The milk is white. </s>
+The juice is sweet. </s>
+The soup is hot. </s>
+The bread is soft. </s>
+The cake is sweet. </s>
+The meat is tender. </s>
+The fish is fresh. </s>
+The egg is fragile. </s>
+The cheese is sharp. </s>
+The butter is rich. </s>
+The oil is liquid. </s>
+The iron is heavy. </s>
+The gold is precious. </s>
+The silver is bright. </s>
+The copper is conductive. </s>
+The steel is strong. </s>
+The plastic is flexible. </s>
+The rubber is elastic. </s>
+The leather is tough. </s>
+The cotton is soft. </s>
+The wool is warm. </s>
+The silk is smooth. </s>
+Transformers use attention. </s>
+Attention computes weights. </s>
+Embeddings represent words. </s>
+LayerNorm stabilizes training. </s>
+Softmax converts logits. </s>
+The LM Head predicts tokens. </s>
+Tokenizers split text. </s>
+Encoders capture context. </s>
+Decoders generate output. </s>
+Kernels extract features. </s>
+Activations introduce nonlinearity. </s>
+Optimizers update weights. </s>
+Gradients indicate direction. </s>
+Losses measure error. </s>
+Batches group samples. </s>
+Epochs define cycles. </s>
+Tensors store data. </s>
+Weights determine importance. </s>
+Biases shift thresholds. </s>
+Neurons process signals. </s>
+Layers extract representations. </s>
+Pooling reduces dimensions. </s>
+Dropouts prevent overfitting. </s>
+Regularizers penalize complexity. </s>
+Initializers set values. </s>
+Callbacks monitor progress. </s>
+Pipelines chain operations. </s>
+Datasets provide samples. </s>
+Metrics evaluate performance. </s>
+Checkpoints save states. </s>
+Schedulers adjust learning rates. </s>
+Embeddings map tokens. </s>
+Vocabularies contain words. </s>
+Corpora compile text. </s>
+Sequences order items. </s>
+Contexts provide meaning. </s>
+Projections transform spaces. </s>
+Heads project outputs. </s>
+Attentions weight tokens. </s>
+Queries query keys. </s>
+Keys match queries. </s>
+Values hold content. </s>
+Residuals skip connections. </s>
+Stridings downsample features. </s>
+Paddings preserve dimensions. </s>
+Convolutions scan arrays. </s>
+Recurrences process timelines. </s>
+Gates regulate flow. </s>
+Cells maintain states. </s>
+Hidden states retain memory. </s>
+Outputs project predictions. </s>
+Targets provide supervision. </s>
+Distributions model probabilities. </s>
+Samplers draw instances. </s>
+Augmentations diversify data. </s>
+Transforms alter inputs. </s>
+Normalizers scale features. </s>
+Standardizers center means. </s>
+Encoders compress information. </s>
+Decoders expand representations. </s>
+Latents capture semantics. </s>
+Autoencoders reconstruct inputs. </s>
+Generators create samples. </s>
+Discriminators distinguish reals. </s>
+Critics evaluate quality. </s>
+Actors select actions. </s>
+Environments simulate physics. </s>
+Rewards guide policies. </s>
+Policies dictate behaviors. </s>
+Values estimate returns. </s>
+Transitions define dynamics. </s>
+Agents learn tasks. </s>
+Simulators generate trajectories. </s>
+Rollouts execute steps. </s>
+Explorations discover states. </s>
+Exploitations leverage knowledge. </s>
+Embeddings cluster semantics. </s>
+Classifiers categorize inputs. </s>
+Regressors predict values. </s>
+Segmenters partition images. </s>
+Detectors locate objects. </s>
+Extractors mine features. </s>
+Synthesizers construct speech. </s>
+Translators convert languages. </s>
+Summarizers condense text. </s>
+Parsers analyze syntax. </s>
+Interpreters execute code. </s>

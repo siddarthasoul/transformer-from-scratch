@@ -1,0 +1,5696 @@
+[
+    {
+        "left": "▁",
+        "right": "<",
+        "token": "▁<",
+        "count": 589
+    },
+    {
+        "left": "▁<",
+        "right": "/",
+        "token": "▁</",
+        "count": 589
+    },
+    {
+        "left": "▁</",
+        "right": "s",
+        "token": "▁</s",
+        "count": 589
+    },
+    {
+        "left": "▁</s",
+        "right": ">",
+        "token": "▁</s>",
+        "count": 589
+    },
+    {
+        "left": "h",
+        "right": "e",
+        "token": "he",
+        "count": 555
+    },
+    {
+        "left": "▁",
+        "right": "T",
+        "token": "▁T",
+        "count": 510
+    },
+    {
+        "left": "▁T",
+        "right": "he",
+        "token": "▁The",
+        "count": 503
+    },
+    {
+        "left": "s",
+        "right": ".",
+        "token": "s.",
+        "count": 341
+    },
+    {
+        "left": "a",
+        "right": "t",
+        "token": "at",
+        "count": 255
+    },
+    {
+        "left": "e",
+        "right": "s",
+        "token": "es",
+        "count": 206
+    },
+    {
+        "left": "▁",
+        "right": "e",
+        "token": "▁e",
+        "count": 198
+    },
+    {
+        "left": "▁",
+        "right": "l",
+        "token": "▁l",
+        "count": 193
+    },
+    {
+        "left": "▁",
+        "right": "s",
+        "token": "▁s",
+        "count": 186
+    },
+    {
+        "left": "e",
+        "right": "r",
+        "token": "er",
+        "count": 184
+    },
+    {
+        "left": "▁e",
+        "right": "at",
+        "token": "▁eat",
+        "count": 156
+    },
+    {
+        "left": "▁eat",
+        "right": "s",
+        "token": "▁eats",
+        "count": 156
+    },
+    {
+        "left": "▁l",
+        "right": "i",
+        "token": "▁li",
+        "count": 135
+    },
+    {
+        "left": "i",
+        "right": "s",
+        "token": "is",
+        "count": 135
+    },
+    {
+        "left": "k",
+        "right": "es",
+        "token": "kes",
+        "count": 131
+    },
+    {
+        "left": "▁li",
+        "right": "kes",
+        "token": "▁likes",
+        "count": 126
+    },
+    {
+        "left": "▁",
+        "right": "c",
+        "token": "▁c",
+        "count": 117
+    },
+    {
+        "left": "▁",
+        "right": "p",
+        "token": "▁p",
+        "count": 115
+    },
+    {
+        "left": "▁",
+        "right": "b",
+        "token": "▁b",
+        "count": 111
+    },
+    {
+        "left": "a",
+        "right": "r",
+        "token": "ar",
+        "count": 100
+    },
+    {
+        "left": "e",
+        "right": "s.",
+        "token": "es.",
+        "count": 97
+    },
+    {
+        "left": "i",
+        "right": "n",
+        "token": "in",
+        "count": 96
+    },
+    {
+        "left": "▁",
+        "right": "is",
+        "token": "▁is",
+        "count": 92
+    },
+    {
+        "left": "a",
+        "right": "n",
+        "token": "an",
+        "count": 85
+    },
+    {
+        "left": "▁",
+        "right": "f",
+        "token": "▁f",
+        "count": 81
+    },
+    {
+        "left": "a",
+        "right": "l",
+        "token": "al",
+        "count": 81
+    },
+    {
+        "left": "o",
+        "right": "n",
+        "token": "on",
+        "count": 80
+    },
+    {
+        "left": "e",
+        "right": "n",
+        "token": "en",
+        "count": 78
+    },
+    {
+        "left": "o",
+        "right": "r",
+        "token": "or",
+        "count": 75
+    },
+    {
+        "left": "▁",
+        "right": "m",
+        "token": "▁m",
+        "count": 73
+    },
+    {
+        "left": "r",
+        "right": "a",
+        "token": "ra",
+        "count": 72
+    },
+    {
+        "left": "▁",
+        "right": "d",
+        "token": "▁d",
+        "count": 66
+    },
+    {
+        "left": "t",
+        "right": "s.",
+        "token": "ts.",
+        "count": 66
+    },
+    {
+        "left": "▁",
+        "right": "t",
+        "token": "▁t",
+        "count": 66
+    },
+    {
+        "left": "▁",
+        "right": "g",
+        "token": "▁g",
+        "count": 58
+    },
+    {
+        "left": "i",
+        "right": "c",
+        "token": "ic",
+        "count": 57
+    },
+    {
+        "left": "r",
+        "right": "e",
+        "token": "re",
+        "count": 57
+    },
+    {
+        "left": "▁",
+        "right": "w",
+        "token": "▁w",
+        "count": 57
+    },
+    {
+        "left": "i",
+        "right": "l",
+        "token": "il",
+        "count": 44
+    },
+    {
+        "left": "i",
+        "right": "t",
+        "token": "it",
+        "count": 43
+    },
+    {
+        "left": "r",
+        "right": "o",
+        "token": "ro",
+        "count": 42
+    },
+    {
+        "left": "▁",
+        "right": "h",
+        "token": "▁h",
+        "count": 42
+    },
+    {
+        "left": "e",
+        "right": "c",
+        "token": "ec",
+        "count": 40
+    },
+    {
+        "left": "e",
+        "right": "a",
+        "token": "ea",
+        "count": 39
+    },
+    {
+        "left": "e",
+        "right": ".",
+        "token": "e.",
+        "count": 38
+    },
+    {
+        "left": "o",
+        "right": "l",
+        "token": "ol",
+        "count": 38
+    },
+    {
+        "left": "i",
+        "right": "g",
+        "token": "ig",
+        "count": 37
+    },
+    {
+        "left": "e",
+        "right": "t",
+        "token": "et",
+        "count": 34
+    },
+    {
+        "left": "r",
+        "right": "u",
+        "token": "ru",
+        "count": 33
+    },
+    {
+        "left": "▁p",
+        "right": "l",
+        "token": "▁pl",
+        "count": 33
+    },
+    {
+        "left": "▁s",
+        "right": "h",
+        "token": "▁sh",
+        "count": 32
+    },
+    {
+        "left": "t",
+        "right": "s",
+        "token": "ts",
+        "count": 31
+    },
+    {
+        "left": "▁s",
+        "right": "t",
+        "token": "▁st",
+        "count": 30
+    },
+    {
+        "left": "t",
+        "right": "er",
+        "token": "ter",
+        "count": 30
+    },
+    {
+        "left": "▁",
+        "right": "o",
+        "token": "▁o",
+        "count": 29
+    },
+    {
+        "left": "h",
+        "right": ".",
+        "token": "h.",
+        "count": 28
+    },
+    {
+        "left": "o",
+        "right": "o",
+        "token": "oo",
+        "count": 28
+    },
+    {
+        "left": "i",
+        "right": "r",
+        "token": "ir",
+        "count": 27
+    },
+    {
+        "left": "r",
+        "right": "i",
+        "token": "ri",
+        "count": 27
+    },
+    {
+        "left": "l",
+        "right": "o",
+        "token": "lo",
+        "count": 27
+    },
+    {
+        "left": "er",
+        "right": "s",
+        "token": "ers",
+        "count": 27
+    },
+    {
+        "left": "i",
+        "right": "on",
+        "token": "ion",
+        "count": 26
+    },
+    {
+        "left": "u",
+        "right": "s",
+        "token": "us",
+        "count": 25
+    },
+    {
+        "left": "u",
+        "right": "r",
+        "token": "ur",
+        "count": 25
+    },
+    {
+        "left": "a",
+        "right": "d",
+        "token": "ad",
+        "count": 23
+    },
+    {
+        "left": "a",
+        "right": "y",
+        "token": "ay",
+        "count": 23
+    },
+    {
+        "left": "l",
+        "right": "e",
+        "token": "le",
+        "count": 23
+    },
+    {
+        "left": "▁",
+        "right": "re",
+        "token": "▁re",
+        "count": 23
+    },
+    {
+        "left": "d",
+        "right": "s.",
+        "token": "ds.",
+        "count": 22
+    },
+    {
+        "left": "ea",
+        "right": "v",
+        "token": "eav",
+        "count": 22
+    },
+    {
+        "left": "t",
+        "right": ".",
+        "token": "t.",
+        "count": 22
+    },
+    {
+        "left": "or",
+        "right": "m",
+        "token": "orm",
+        "count": 21
+    },
+    {
+        "left": "▁",
+        "right": "in",
+        "token": "▁in",
+        "count": 21
+    },
+    {
+        "left": "c",
+        "right": "k",
+        "token": "ck",
+        "count": 20
+    },
+    {
+        "left": "c",
+        "right": "t",
+        "token": "ct",
+        "count": 20
+    },
+    {
+        "left": "in",
+        "right": "g",
+        "token": "ing",
+        "count": 20
+    },
+    {
+        "left": "a",
+        "right": "s",
+        "token": "as",
+        "count": 19
+    },
+    {
+        "left": "e",
+        "right": "l",
+        "token": "el",
+        "count": 19
+    },
+    {
+        "left": "▁f",
+        "right": "is",
+        "token": "▁fis",
+        "count": 18
+    },
+    {
+        "left": "e",
+        "right": "at",
+        "token": "eat",
+        "count": 18
+    },
+    {
+        "left": "▁g",
+        "right": "ra",
+        "token": "▁gra",
+        "count": 18
+    },
+    {
+        "left": "▁l",
+        "right": "eav",
+        "token": "▁leav",
+        "count": 18
+    },
+    {
+        "left": "▁leav",
+        "right": "es.",
+        "token": "▁leaves.",
+        "count": 18
+    },
+    {
+        "left": "▁",
+        "right": "k",
+        "token": "▁k",
+        "count": 18
+    },
+    {
+        "left": "en",
+        "right": "t",
+        "token": "ent",
+        "count": 18
+    },
+    {
+        "left": "y",
+        "right": ".",
+        "token": "y.",
+        "count": 17
+    },
+    {
+        "left": "▁",
+        "right": "n",
+        "token": "▁n",
+        "count": 17
+    },
+    {
+        "left": "i",
+        "right": "d",
+        "token": "id",
+        "count": 17
+    },
+    {
+        "left": "c",
+        "right": "he",
+        "token": "che",
+        "count": 17
+    },
+    {
+        "left": "▁c",
+        "right": "o",
+        "token": "▁co",
+        "count": 17
+    },
+    {
+        "left": "▁gra",
+        "right": "s",
+        "token": "▁gras",
+        "count": 16
+    },
+    {
+        "left": "e",
+        "right": "er",
+        "token": "eer",
+        "count": 16
+    },
+    {
+        "left": "ec",
+        "right": "t",
+        "token": "ect",
+        "count": 16
+    },
+    {
+        "left": "▁",
+        "right": "ar",
+        "token": "▁ar",
+        "count": 16
+    },
+    {
+        "left": "▁gras",
+        "right": "s.",
+        "token": "▁grass.",
+        "count": 15
+    },
+    {
+        "left": "l",
+        "right": "es.",
+        "token": "les.",
+        "count": 15
+    },
+    {
+        "left": "▁b",
+        "right": "e",
+        "token": "▁be",
+        "count": 15
+    },
+    {
+        "left": "an",
+        "right": "t",
+        "token": "ant",
+        "count": 15
+    },
+    {
+        "left": "a",
+        "right": "m",
+        "token": "am",
+        "count": 15
+    },
+    {
+        "left": "e",
+        "right": "m",
+        "token": "em",
+        "count": 15
+    },
+    {
+        "left": "b",
+        "right": "s.",
+        "token": "bs.",
+        "count": 15
+    },
+    {
+        "left": "q",
+        "right": "u",
+        "token": "qu",
+        "count": 15
+    },
+    {
+        "left": "s",
+        "right": "e",
+        "token": "se",
+        "count": 14
+    },
+    {
+        "left": "▁in",
+        "right": "s",
+        "token": "▁ins",
+        "count": 14
+    },
+    {
+        "left": "ec",
+        "right": "ts.",
+        "token": "ects.",
+        "count": 14
+    },
+    {
+        "left": "▁",
+        "right": "ro",
+        "token": "▁ro",
+        "count": 14
+    },
+    {
+        "left": "v",
+        "right": "er",
+        "token": "ver",
+        "count": 14
+    },
+    {
+        "left": "▁pl",
+        "right": "ay",
+        "token": "▁play",
+        "count": 14
+    },
+    {
+        "left": "▁play",
+        "right": "s",
+        "token": "▁plays",
+        "count": 14
+    },
+    {
+        "left": "u",
+        "right": "d",
+        "token": "ud",
+        "count": 14
+    },
+    {
+        "left": "r",
+        "right": "es",
+        "token": "res",
+        "count": 14
+    },
+    {
+        "left": "i",
+        "right": "m",
+        "token": "im",
+        "count": 14
+    },
+    {
+        "left": "▁fis",
+        "right": "h.",
+        "token": "▁fish.",
+        "count": 13
+    },
+    {
+        "left": "▁c",
+        "right": "h",
+        "token": "▁ch",
+        "count": 13
+    },
+    {
+        "left": "▁c",
+        "right": "he",
+        "token": "▁che",
+        "count": 13
+    },
+    {
+        "left": "an",
+        "right": "d",
+        "token": "and",
+        "count": 13
+    },
+    {
+        "left": "a",
+        "right": "k",
+        "token": "ak",
+        "count": 13
+    },
+    {
+        "left": "ar",
+        "right": "k",
+        "token": "ark",
+        "count": 13
+    },
+    {
+        "left": "u",
+        "right": "t",
+        "token": "ut",
+        "count": 13
+    },
+    {
+        "left": "at",
+        "right": "e",
+        "token": "ate",
+        "count": 13
+    },
+    {
+        "left": "▁d",
+        "right": "o",
+        "token": "▁do",
+        "count": 12
+    },
+    {
+        "left": "▁s",
+        "right": "e",
+        "token": "▁se",
+        "count": 12
+    },
+    {
+        "left": "▁",
+        "right": "ra",
+        "token": "▁ra",
+        "count": 12
+    },
+    {
+        "left": "▁ins",
+        "right": "ects.",
+        "token": "▁insects.",
+        "count": 12
+    },
+    {
+        "left": "is",
+        "right": "t",
+        "token": "ist",
+        "count": 12
+    },
+    {
+        "left": "u",
+        "right": "n",
+        "token": "un",
+        "count": 12
+    },
+    {
+        "left": "ar",
+        "right": "d",
+        "token": "ard",
+        "count": 12
+    },
+    {
+        "left": "ig",
+        "right": "h",
+        "token": "igh",
+        "count": 12
+    },
+    {
+        "left": "▁w",
+        "right": "orm",
+        "token": "▁worm",
+        "count": 11
+    },
+    {
+        "left": "▁worm",
+        "right": "s.",
+        "token": "▁worms.",
+        "count": 11
+    },
+    {
+        "left": "▁s",
+        "right": "n",
+        "token": "▁sn",
+        "count": 11
+    },
+    {
+        "left": "a",
+        "right": "g",
+        "token": "ag",
+        "count": 11
+    },
+    {
+        "left": "▁s",
+        "right": "c",
+        "token": "▁sc",
+        "count": 11
+    },
+    {
+        "left": "▁",
+        "right": "j",
+        "token": "▁j",
+        "count": 11
+    },
+    {
+        "left": "▁c",
+        "right": "on",
+        "token": "▁con",
+        "count": 11
+    },
+    {
+        "left": "ion",
+        "right": "s.",
+        "token": "ions.",
+        "count": 11
+    },
+    {
+        "left": "f",
+        "right": "f",
+        "token": "ff",
+        "count": 11
+    },
+    {
+        "left": "i",
+        "right": "z",
+        "token": "iz",
+        "count": 11
+    },
+    {
+        "left": "▁f",
+        "right": "ru",
+        "token": "▁fru",
+        "count": 10
+    },
+    {
+        "left": "▁fru",
+        "right": "it",
+        "token": "▁fruit",
+        "count": 10
+    },
+    {
+        "left": "▁",
+        "right": "a",
+        "token": "▁a",
+        "count": 10
+    },
+    {
+        "left": "u",
+        "right": "ts.",
+        "token": "uts.",
+        "count": 10
+    },
+    {
+        "left": "▁m",
+        "right": "o",
+        "token": "▁mo",
+        "count": 10
+    },
+    {
+        "left": "g",
+        "right": "s.",
+        "token": "gs.",
+        "count": 10
+    },
+    {
+        "left": "▁b",
+        "right": "u",
+        "token": "▁bu",
+        "count": 10
+    },
+    {
+        "left": "e",
+        "right": "p",
+        "token": "ep",
+        "count": 10
+    },
+    {
+        "left": "o",
+        "right": "at",
+        "token": "oat",
+        "count": 10
+    },
+    {
+        "left": "▁",
+        "right": "v",
+        "token": "▁v",
+        "count": 10
+    },
+    {
+        "left": "a",
+        "right": "w",
+        "token": "aw",
+        "count": 10
+    },
+    {
+        "left": "g",
+        "right": "e",
+        "token": "ge",
+        "count": 10
+    },
+    {
+        "left": "▁p",
+        "right": "ol",
+        "token": "▁pol",
+        "count": 10
+    },
+    {
+        "left": "h",
+        "right": "in",
+        "token": "hin",
+        "count": 10
+    },
+    {
+        "left": "l",
+        "right": ".",
+        "token": "l.",
+        "count": 10
+    },
+    {
+        "left": "al",
+        "right": "s.",
+        "token": "als.",
+        "count": 10
+    },
+    {
+        "left": "o",
+        "right": "p",
+        "token": "op",
+        "count": 10
+    },
+    {
+        "left": "il",
+        "right": "d",
+        "token": "ild",
+        "count": 10
+    },
+    {
+        "left": "▁t",
+        "right": "ea",
+        "token": "▁tea",
+        "count": 10
+    },
+    {
+        "left": "▁tea",
+        "right": "che",
+        "token": "▁teache",
+        "count": 10
+    },
+    {
+        "left": "▁s",
+        "right": "o",
+        "token": "▁so",
+        "count": 10
+    },
+    {
+        "left": "ic",
+        "right": "i",
+        "token": "ici",
+        "count": 10
+    },
+    {
+        "left": "▁f",
+        "right": "i",
+        "token": "▁fi",
+        "count": 10
+    },
+    {
+        "left": "▁",
+        "right": "E",
+        "token": "▁E",
+        "count": 10
+    },
+    {
+        "left": "▁",
+        "right": "S",
+        "token": "▁S",
+        "count": 10
+    },
+    {
+        "left": "e",
+        "right": "ds.",
+        "token": "eds.",
+        "count": 9
+    },
+    {
+        "left": "▁fruit",
+        "right": ".",
+        "token": "▁fruit.",
+        "count": 9
+    },
+    {
+        "left": "▁c",
+        "right": "ar",
+        "token": "▁car",
+        "count": 9
+    },
+    {
+        "left": "▁sh",
+        "right": "oo",
+        "token": "▁shoo",
+        "count": 9
+    },
+    {
+        "left": "al",
+        "right": "a",
+        "token": "ala",
+        "count": 9
+    },
+    {
+        "left": "▁pl",
+        "right": "an",
+        "token": "▁plan",
+        "count": 9
+    },
+    {
+        "left": "▁g",
+        "right": "oat",
+        "token": "▁goat",
+        "count": 9
+    },
+    {
+        "left": "ru",
+        "right": "bs.",
+        "token": "rubs.",
+        "count": 9
+    },
+    {
+        "left": "▁s",
+        "right": "qu",
+        "token": "▁squ",
+        "count": 9
+    },
+    {
+        "left": "▁",
+        "right": "he",
+        "token": "▁he",
+        "count": 9
+    },
+    {
+        "left": "▁e",
+        "right": "l",
+        "token": "▁el",
+        "count": 9
+    },
+    {
+        "left": "▁",
+        "right": "ant",
+        "token": "▁ant",
+        "count": 9
+    },
+    {
+        "left": "in",
+        "right": "e",
+        "token": "ine",
+        "count": 9
+    },
+    {
+        "left": "ion",
+        "right": "s",
+        "token": "ions",
+        "count": 9
+    },
+    {
+        "left": "or",
+        "right": "s",
+        "token": "ors",
+        "count": 9
+    },
+    {
+        "left": "▁p",
+        "right": "ro",
+        "token": "▁pro",
+        "count": 9
+    },
+    {
+        "left": "en",
+        "right": ".",
+        "token": "en.",
+        "count": 8
+    },
+    {
+        "left": "▁",
+        "right": "r",
+        "token": "▁r",
+        "count": 8
+    },
+    {
+        "left": "▁m",
+        "right": "eat",
+        "token": "▁meat",
+        "count": 8
+    },
+    {
+        "left": "b",
+        "right": "b",
+        "token": "bb",
+        "count": 8
+    },
+    {
+        "left": "p",
+        "right": "p",
+        "token": "pp",
+        "count": 8
+    },
+    {
+        "left": "▁be",
+        "right": "ar",
+        "token": "▁bear",
+        "count": 8
+    },
+    {
+        "left": "▁d",
+        "right": "eer",
+        "token": "▁deer",
+        "count": 8
+    },
+    {
+        "left": "▁p",
+        "right": "and",
+        "token": "▁pand",
+        "count": 8
+    },
+    {
+        "left": "▁pand",
+        "right": "a",
+        "token": "▁panda",
+        "count": 8
+    },
+    {
+        "left": "▁shoo",
+        "right": "ts.",
+        "token": "▁shoots.",
+        "count": 8
+    },
+    {
+        "left": "▁k",
+        "right": "o",
+        "token": "▁ko",
+        "count": 8
+    },
+    {
+        "left": "▁ko",
+        "right": "ala",
+        "token": "▁koala",
+        "count": 8
+    },
+    {
+        "left": "▁f",
+        "right": "ro",
+        "token": "▁fro",
+        "count": 8
+    },
+    {
+        "left": "▁ro",
+        "right": "o",
+        "token": "▁roo",
+        "count": 8
+    },
+    {
+        "left": "▁st",
+        "right": "ud",
+        "token": "▁stud",
+        "count": 8
+    },
+    {
+        "left": "▁s",
+        "right": "k",
+        "token": "▁sk",
+        "count": 8
+    },
+    {
+        "left": "ici",
+        "right": "an",
+        "token": "ician",
+        "count": 8
+    },
+    {
+        "left": "ark",
+        "right": ".",
+        "token": "ark.",
+        "count": 8
+    },
+    {
+        "left": "c",
+        "right": "o",
+        "token": "co",
+        "count": 8
+    },
+    {
+        "left": "u",
+        "right": "p",
+        "token": "up",
+        "count": 8
+    },
+    {
+        "left": "iz",
+        "right": "ers",
+        "token": "izers",
+        "count": 8
+    },
+    {
+        "left": "▁",
+        "right": "C",
+        "token": "▁C",
+        "count": 8
+    },
+    {
+        "left": "▁meat",
+        "right": ".",
+        "token": "▁meat.",
+        "count": 7
+    },
+    {
+        "left": "▁ra",
+        "right": "bb",
+        "token": "▁rabb",
+        "count": 7
+    },
+    {
+        "left": "u",
+        "right": "c",
+        "token": "uc",
+        "count": 7
+    },
+    {
+        "left": "e",
+        "right": "y",
+        "token": "ey",
+        "count": 7
+    },
+    {
+        "left": "ri",
+        "right": "es.",
+        "token": "ries.",
+        "count": 7
+    },
+    {
+        "left": "an",
+        "right": "g",
+        "token": "ang",
+        "count": 7
+    },
+    {
+        "left": "em",
+        "right": "s.",
+        "token": "ems.",
+        "count": 7
+    },
+    {
+        "left": "▁t",
+        "right": "w",
+        "token": "▁tw",
+        "count": 7
+    },
+    {
+        "left": "▁tw",
+        "right": "ig",
+        "token": "▁twig",
+        "count": 7
+    },
+    {
+        "left": "▁twig",
+        "right": "s.",
+        "token": "▁twigs.",
+        "count": 7
+    },
+    {
+        "left": "n",
+        "right": "s.",
+        "token": "ns.",
+        "count": 7
+    },
+    {
+        "left": "m",
+        "right": "p",
+        "token": "mp",
+        "count": 7
+    },
+    {
+        "left": "▁c",
+        "right": "ra",
+        "token": "▁cra",
+        "count": 7
+    },
+    {
+        "left": "▁l",
+        "right": "o",
+        "token": "▁lo",
+        "count": 7
+    },
+    {
+        "left": "al",
+        "right": "l.",
+        "token": "all.",
+        "count": 7
+    },
+    {
+        "left": "e",
+        "right": "b",
+        "token": "eb",
+        "count": 7
+    },
+    {
+        "left": "i",
+        "right": "es",
+        "token": "ies",
+        "count": 7
+    },
+    {
+        "left": "f",
+        "right": "orm",
+        "token": "form",
+        "count": 7
+    },
+    {
+        "left": "a",
+        "right": "in",
+        "token": "ain",
+        "count": 7
+    },
+    {
+        "left": "u",
+        "right": "l",
+        "token": "ul",
+        "count": 7
+    },
+    {
+        "left": "▁t",
+        "right": "ra",
+        "token": "▁tra",
+        "count": 7
+    },
+    {
+        "left": "u",
+        "right": "m",
+        "token": "um",
+        "count": 7
+    },
+    {
+        "left": "en",
+        "right": "er",
+        "token": "ener",
+        "count": 7
+    },
+    {
+        "left": "s",
+        "right": "t",
+        "token": "st",
+        "count": 7
+    },
+    {
+        "left": "al",
+        "right": "u",
+        "token": "alu",
+        "count": 7
+    },
+    {
+        "left": "a",
+        "right": "ck",
+        "token": "ack",
+        "count": 7
+    },
+    {
+        "left": "▁b",
+        "right": "ark.",
+        "token": "▁bark.",
+        "count": 7
+    },
+    {
+        "left": "▁l",
+        "right": "e",
+        "token": "▁le",
+        "count": 7
+    },
+    {
+        "left": "▁s",
+        "right": "p",
+        "token": "▁sp",
+        "count": 7
+    },
+    {
+        "left": "▁",
+        "right": "A",
+        "token": "▁A",
+        "count": 7
+    },
+    {
+        "left": "▁",
+        "right": "D",
+        "token": "▁D",
+        "count": 7
+    },
+    {
+        "left": "ic",
+        "right": "e.",
+        "token": "ice.",
+        "count": 6
+    },
+    {
+        "left": "▁b",
+        "right": "ir",
+        "token": "▁bir",
+        "count": 6
+    },
+    {
+        "left": "▁se",
+        "right": "eds.",
+        "token": "▁seeds.",
+        "count": 6
+    },
+    {
+        "left": "▁m",
+        "right": "on",
+        "token": "▁mon",
+        "count": 6
+    },
+    {
+        "left": "▁b",
+        "right": "er",
+        "token": "▁ber",
+        "count": 6
+    },
+    {
+        "left": "▁ber",
+        "right": "ries.",
+        "token": "▁berries.",
+        "count": 6
+    },
+    {
+        "left": "us",
+        "right": "e",
+        "token": "use",
+        "count": 6
+    },
+    {
+        "left": "i",
+        "right": "ts.",
+        "token": "its.",
+        "count": 6
+    },
+    {
+        "left": "u",
+        "right": "g",
+        "token": "ug",
+        "count": 6
+    },
+    {
+        "left": "y",
+        "right": "p",
+        "token": "yp",
+        "count": 6
+    },
+    {
+        "left": "▁t",
+        "right": "o",
+        "token": "▁to",
+        "count": 6
+    },
+    {
+        "left": "i",
+        "right": "es.",
+        "token": "ies.",
+        "count": 6
+    },
+    {
+        "left": "▁sn",
+        "right": "ak",
+        "token": "▁snak",
+        "count": 6
+    },
+    {
+        "left": "▁s",
+        "right": "lo",
+        "token": "▁slo",
+        "count": 6
+    },
+    {
+        "left": "▁sh",
+        "right": "rubs.",
+        "token": "▁shrubs.",
+        "count": 6
+    },
+    {
+        "left": "a",
+        "right": "il",
+        "token": "ail",
+        "count": 6
+    },
+    {
+        "left": "▁w",
+        "right": "h",
+        "token": "▁wh",
+        "count": 6
+    },
+    {
+        "left": "▁c",
+        "right": "l",
+        "token": "▁cl",
+        "count": 6
+    },
+    {
+        "left": "▁b",
+        "right": "o",
+        "token": "▁bo",
+        "count": 6
+    },
+    {
+        "left": "et",
+        "right": ".",
+        "token": "et.",
+        "count": 6
+    },
+    {
+        "left": "ic",
+        "right": "s.",
+        "token": "ics.",
+        "count": 6
+    },
+    {
+        "left": "en",
+        "right": "c",
+        "token": "enc",
+        "count": 6
+    },
+    {
+        "left": "▁e",
+        "right": "n",
+        "token": "▁en",
+        "count": 6
+    },
+    {
+        "left": "▁en",
+        "right": "g",
+        "token": "▁eng",
+        "count": 6
+    },
+    {
+        "left": "d",
+        "right": "ic",
+        "token": "dic",
+        "count": 6
+    },
+    {
+        "left": "a",
+        "right": "p",
+        "token": "ap",
+        "count": 6
+    },
+    {
+        "left": "ur",
+        "right": "es.",
+        "token": "ures.",
+        "count": 6
+    },
+    {
+        "left": "f",
+        "right": "t.",
+        "token": "ft.",
+        "count": 6
+    },
+    {
+        "left": "at",
+        "right": "es",
+        "token": "ates",
+        "count": 6
+    },
+    {
+        "left": "▁re",
+        "right": "p",
+        "token": "▁rep",
+        "count": 6
+    },
+    {
+        "left": "en",
+        "right": "ter",
+        "token": "enter",
+        "count": 6
+    },
+    {
+        "left": "d",
+        "right": "ers",
+        "token": "ders",
+        "count": 6
+    },
+    {
+        "left": "▁h",
+        "right": "o",
+        "token": "▁ho",
+        "count": 6
+    },
+    {
+        "left": "ar",
+        "right": "m",
+        "token": "arm",
+        "count": 6
+    },
+    {
+        "left": "▁co",
+        "right": "w",
+        "token": "▁cow",
+        "count": 6
+    },
+    {
+        "left": "he",
+        "right": "r",
+        "token": "her",
+        "count": 6
+    },
+    {
+        "left": "c",
+        "right": "h",
+        "token": "ch",
+        "count": 6
+    },
+    {
+        "left": "▁e",
+        "right": "x",
+        "token": "▁ex",
+        "count": 6
+    },
+    {
+        "left": "i",
+        "right": "v",
+        "token": "iv",
+        "count": 6
+    },
+    {
+        "left": "ic",
+        "right": "e",
+        "token": "ice",
+        "count": 6
+    },
+    {
+        "left": "▁w",
+        "right": "or",
+        "token": "▁wor",
+        "count": 6
+    },
+    {
+        "left": "an",
+        "right": "s",
+        "token": "ans",
+        "count": 6
+    },
+    {
+        "left": "▁",
+        "right": "P",
+        "token": "▁P",
+        "count": 6
+    },
+    {
+        "left": "▁",
+        "right": "R",
+        "token": "▁R",
+        "count": 6
+    },
+    {
+        "left": "▁c",
+        "right": "at",
+        "token": "▁cat",
+        "count": 5
+    },
+    {
+        "left": "▁b",
+        "right": "re",
+        "token": "▁bre",
+        "count": 5
+    },
+    {
+        "left": "▁mon",
+        "right": "k",
+        "token": "▁monk",
+        "count": 5
+    },
+    {
+        "left": "▁monk",
+        "right": "ey",
+        "token": "▁monkey",
+        "count": 5
+    },
+    {
+        "left": "▁s",
+        "right": "al",
+        "token": "▁sal",
+        "count": 5
+    },
+    {
+        "left": "▁m",
+        "right": "ice.",
+        "token": "▁mice.",
+        "count": 5
+    },
+    {
+        "left": "▁e",
+        "right": "g",
+        "token": "▁eg",
+        "count": 5
+    },
+    {
+        "left": "▁t",
+        "right": "ur",
+        "token": "▁tur",
+        "count": 5
+    },
+    {
+        "left": "▁tur",
+        "right": "t",
+        "token": "▁turt",
+        "count": 5
+    },
+    {
+        "left": "▁be",
+        "right": "et",
+        "token": "▁beet",
+        "count": 5
+    },
+    {
+        "left": "▁beet",
+        "right": "les.",
+        "token": "▁beetles.",
+        "count": 5
+    },
+    {
+        "left": "▁d",
+        "right": "u",
+        "token": "▁du",
+        "count": 5
+    },
+    {
+        "left": "▁du",
+        "right": "ck",
+        "token": "▁duck",
+        "count": 5
+    },
+    {
+        "left": "▁roo",
+        "right": "ts.",
+        "token": "▁roots.",
+        "count": 5
+    },
+    {
+        "left": "▁w",
+        "right": "e",
+        "token": "▁we",
+        "count": 5
+    },
+    {
+        "left": "d",
+        "right": "ge",
+        "token": "dge",
+        "count": 5
+    },
+    {
+        "left": "o",
+        "right": "g",
+        "token": "og",
+        "count": 5
+    },
+    {
+        "left": "ail",
+        "right": "s.",
+        "token": "ails.",
+        "count": 5
+    },
+    {
+        "left": "id",
+        "right": ".",
+        "token": "id.",
+        "count": 5
+    },
+    {
+        "left": "▁p",
+        "right": "en",
+        "token": "▁pen",
+        "count": 5
+    },
+    {
+        "left": "b",
+        "right": "s",
+        "token": "bs",
+        "count": 5
+    },
+    {
+        "left": "▁bo",
+        "right": "y",
+        "token": "▁boy",
+        "count": 5
+    },
+    {
+        "left": "▁g",
+        "right": "ir",
+        "token": "▁gir",
+        "count": 5
+    },
+    {
+        "left": "▁gir",
+        "right": "l",
+        "token": "▁girl",
+        "count": 5
+    },
+    {
+        "left": "▁ch",
+        "right": "ild",
+        "token": "▁child",
+        "count": 5
+    },
+    {
+        "left": "▁re",
+        "right": "ad",
+        "token": "▁read",
+        "count": 5
+    },
+    {
+        "left": "▁read",
+        "right": "s",
+        "token": "▁reads",
+        "count": 5
+    },
+    {
+        "left": "▁teache",
+        "right": "r",
+        "token": "▁teacher",
+        "count": 5
+    },
+    {
+        "left": "▁teache",
+        "right": "s",
+        "token": "▁teaches",
+        "count": 5
+    },
+    {
+        "left": "▁b",
+        "right": "ad",
+        "token": "▁bad",
+        "count": 5
+    },
+    {
+        "left": "▁p",
+        "right": "o",
+        "token": "▁po",
+        "count": 5
+    },
+    {
+        "left": "▁sc",
+        "right": "i",
+        "token": "▁sci",
+        "count": 5
+    },
+    {
+        "left": "▁do",
+        "right": "ct",
+        "token": "▁doct",
+        "count": 5
+    },
+    {
+        "left": "▁doct",
+        "right": "or",
+        "token": "▁doctor",
+        "count": 5
+    },
+    {
+        "left": "en",
+        "right": "ts.",
+        "token": "ents.",
+        "count": 5
+    },
+    {
+        "left": "g",
+        "right": "er",
+        "token": "ger",
+        "count": 5
+    },
+    {
+        "left": "as",
+        "right": "s",
+        "token": "ass",
+        "count": 5
+    },
+    {
+        "left": "▁b",
+        "right": "a",
+        "token": "▁ba",
+        "count": 5
+    },
+    {
+        "left": "et",
+        "right": "a",
+        "token": "eta",
+        "count": 5
+    },
+    {
+        "left": "d",
+        "right": "s",
+        "token": "ds",
+        "count": 5
+    },
+    {
+        "left": "▁p",
+        "right": "or",
+        "token": "▁por",
+        "count": 5
+    },
+    {
+        "left": "t",
+        "right": "ra",
+        "token": "tra",
+        "count": 5
+    },
+    {
+        "left": "▁d",
+        "right": "ra",
+        "token": "▁dra",
+        "count": 5
+    },
+    {
+        "left": "w",
+        "right": "s",
+        "token": "ws",
+        "count": 5
+    },
+    {
+        "left": "▁m",
+        "right": "us",
+        "token": "▁mus",
+        "count": 5
+    },
+    {
+        "left": "o",
+        "right": "t",
+        "token": "ot",
+        "count": 5
+    },
+    {
+        "left": "r",
+        "right": "it",
+        "token": "rit",
+        "count": 5
+    },
+    {
+        "left": "▁p",
+        "right": "il",
+        "token": "▁pil",
+        "count": 5
+    },
+    {
+        "left": "a",
+        "right": "v",
+        "token": "av",
+        "count": 5
+    },
+    {
+        "left": "▁d",
+        "right": "ri",
+        "token": "▁dri",
+        "count": 5
+    },
+    {
+        "left": "▁eng",
+        "right": "in",
+        "token": "▁engin",
+        "count": 5
+    },
+    {
+        "left": "d",
+        "right": ".",
+        "token": "d.",
+        "count": 5
+    },
+    {
+        "left": "b",
+        "right": "er",
+        "token": "ber",
+        "count": 5
+    },
+    {
+        "left": "▁s",
+        "right": "w",
+        "token": "▁sw",
+        "count": 5
+    },
+    {
+        "left": "▁l",
+        "right": "aw",
+        "token": "▁law",
+        "count": 5
+    },
+    {
+        "left": "▁d",
+        "right": "e",
+        "token": "▁de",
+        "count": 5
+    },
+    {
+        "left": "▁e",
+        "right": "v",
+        "token": "▁ev",
+        "count": 5
+    },
+    {
+        "left": "ff",
+        "right": "ic",
+        "token": "ffic",
+        "count": 5
+    },
+    {
+        "left": "▁fi",
+        "right": "re",
+        "token": "▁fire",
+        "count": 5
+    },
+    {
+        "left": "▁li",
+        "right": "on",
+        "token": "▁lion",
+        "count": 5
+    },
+    {
+        "left": "▁t",
+        "right": "ig",
+        "token": "▁tig",
+        "count": 5
+    },
+    {
+        "left": "▁tig",
+        "right": "er",
+        "token": "▁tiger",
+        "count": 5
+    },
+    {
+        "left": "▁",
+        "right": "z",
+        "token": "▁z",
+        "count": 5
+    },
+    {
+        "left": "▁z",
+        "right": "eb",
+        "token": "▁zeb",
+        "count": 5
+    },
+    {
+        "left": "▁zeb",
+        "right": "ra",
+        "token": "▁zebra",
+        "count": 5
+    },
+    {
+        "left": "▁ant",
+        "right": "e",
+        "token": "▁ante",
+        "count": 5
+    },
+    {
+        "left": "▁ante",
+        "right": "lo",
+        "token": "▁antelo",
+        "count": 5
+    },
+    {
+        "left": "▁antelo",
+        "right": "p",
+        "token": "▁antelop",
+        "count": 5
+    },
+    {
+        "left": "▁w",
+        "right": "al",
+        "token": "▁wal",
+        "count": 5
+    },
+    {
+        "left": "▁l",
+        "right": "em",
+        "token": "▁lem",
+        "count": 5
+    },
+    {
+        "left": "lo",
+        "right": "w",
+        "token": "low",
+        "count": 5
+    },
+    {
+        "left": "▁f",
+        "right": "eat",
+        "token": "▁feat",
+        "count": 5
+    },
+    {
+        "left": "▁so",
+        "right": "ft.",
+        "token": "▁soft.",
+        "count": 5
+    },
+    {
+        "left": "▁p",
+        "right": "re",
+        "token": "▁pre",
+        "count": 5
+    },
+    {
+        "left": "r",
+        "right": "ans",
+        "token": "rans",
+        "count": 5
+    },
+    {
+        "left": "d",
+        "right": "ing",
+        "token": "ding",
+        "count": 5
+    },
+    {
+        "left": "ding",
+        "right": "s",
+        "token": "dings",
+        "count": 5
+    },
+    {
+        "left": "▁",
+        "right": "L",
+        "token": "▁L",
+        "count": 5
+    },
+    {
+        "left": "e",
+        "right": "x",
+        "token": "ex",
+        "count": 5
+    },
+    {
+        "left": "am",
+        "right": "p",
+        "token": "amp",
+        "count": 5
+    },
+    {
+        "left": "il",
+        "right": "k",
+        "token": "ilk",
+        "count": 4
+    },
+    {
+        "left": "ic",
+        "right": "k",
+        "token": "ick",
+        "count": 4
+    },
+    {
+        "left": "▁do",
+        "right": "g",
+        "token": "▁dog",
+        "count": 4
+    },
+    {
+        "left": "▁bre",
+        "right": "ad",
+        "token": "▁bread",
+        "count": 4
+    },
+    {
+        "left": "▁rabb",
+        "right": "it",
+        "token": "▁rabbit",
+        "count": 4
+    },
+    {
+        "left": "e",
+        "right": "an",
+        "token": "ean",
+        "count": 4
+    },
+    {
+        "left": "▁h",
+        "right": "or",
+        "token": "▁hor",
+        "count": 4
+    },
+    {
+        "left": "▁hor",
+        "right": "se",
+        "token": "▁horse",
+        "count": 4
+    },
+    {
+        "left": "ay",
+        "right": ".",
+        "token": "ay.",
+        "count": 4
+    },
+    {
+        "left": "▁mo",
+        "right": "use",
+        "token": "▁mouse",
+        "count": 4
+    },
+    {
+        "left": "▁f",
+        "right": "o",
+        "token": "▁fo",
+        "count": 4
+    },
+    {
+        "left": "▁fo",
+        "right": "x",
+        "token": "▁fox",
+        "count": 4
+    },
+    {
+        "left": "▁eg",
+        "right": "gs.",
+        "token": "▁eggs.",
+        "count": 4
+    },
+    {
+        "left": "▁w",
+        "right": "ol",
+        "token": "▁wol",
+        "count": 4
+    },
+    {
+        "left": "▁wol",
+        "right": "f",
+        "token": "▁wolf",
+        "count": 4
+    },
+    {
+        "left": "▁deer",
+        "right": ".",
+        "token": "▁deer.",
+        "count": 4
+    },
+    {
+        "left": "▁e",
+        "right": "le",
+        "token": "▁ele",
+        "count": 4
+    },
+    {
+        "left": "▁ele",
+        "right": "p",
+        "token": "▁elep",
+        "count": 4
+    },
+    {
+        "left": "▁elep",
+        "right": "h",
+        "token": "▁eleph",
+        "count": 4
+    },
+    {
+        "left": "▁eleph",
+        "right": "ant",
+        "token": "▁elephant",
+        "count": 4
+    },
+    {
+        "left": "▁st",
+        "right": "ems.",
+        "token": "▁stems.",
+        "count": 4
+    },
+    {
+        "left": "▁turt",
+        "right": "le",
+        "token": "▁turtle",
+        "count": 4
+    },
+    {
+        "left": "▁fro",
+        "right": "g",
+        "token": "▁frog",
+        "count": 4
+    },
+    {
+        "left": "▁snak",
+        "right": "e",
+        "token": "▁snake",
+        "count": 4
+    },
+    {
+        "left": "▁fro",
+        "right": "gs.",
+        "token": "▁frogs.",
+        "count": 4
+    },
+    {
+        "left": "▁p",
+        "right": "ig",
+        "token": "▁pig",
+        "count": 4
+    },
+    {
+        "left": "▁s",
+        "right": "he",
+        "token": "▁she",
+        "count": 4
+    },
+    {
+        "left": "▁she",
+        "right": "ep",
+        "token": "▁sheep",
+        "count": 4
+    },
+    {
+        "left": "▁c",
+        "right": "lo",
+        "token": "▁clo",
+        "count": 4
+    },
+    {
+        "left": "▁o",
+        "right": "w",
+        "token": "▁ow",
+        "count": 4
+    },
+    {
+        "left": "▁ow",
+        "right": "l",
+        "token": "▁owl",
+        "count": 4
+    },
+    {
+        "left": "▁h",
+        "right": "aw",
+        "token": "▁haw",
+        "count": 4
+    },
+    {
+        "left": "▁haw",
+        "right": "k",
+        "token": "▁hawk",
+        "count": 4
+    },
+    {
+        "left": "▁e",
+        "right": "ag",
+        "token": "▁eag",
+        "count": 4
+    },
+    {
+        "left": "▁eag",
+        "right": "le",
+        "token": "▁eagle",
+        "count": 4
+    },
+    {
+        "left": "▁squ",
+        "right": "ir",
+        "token": "▁squir",
+        "count": 4
+    },
+    {
+        "left": "▁squir",
+        "right": "re",
+        "token": "▁squirre",
+        "count": 4
+    },
+    {
+        "left": "▁squirre",
+        "right": "l",
+        "token": "▁squirrel",
+        "count": 4
+    },
+    {
+        "left": "c",
+        "right": "or",
+        "token": "cor",
+        "count": 4
+    },
+    {
+        "left": "▁he",
+        "right": "dge",
+        "token": "▁hedge",
+        "count": 4
+    },
+    {
+        "left": "▁hedge",
+        "right": "h",
+        "token": "▁hedgeh",
+        "count": 4
+    },
+    {
+        "left": "▁hedgeh",
+        "right": "og",
+        "token": "▁hedgehog",
+        "count": 4
+    },
+    {
+        "left": "▁sn",
+        "right": "ails.",
+        "token": "▁snails.",
+        "count": 4
+    },
+    {
+        "left": "▁b",
+        "right": "at",
+        "token": "▁bat",
+        "count": 4
+    },
+    {
+        "left": "ar",
+        "right": ".",
+        "token": "ar.",
+        "count": 4
+    },
+    {
+        "left": "▁d",
+        "right": "ol",
+        "token": "▁dol",
+        "count": 4
+    },
+    {
+        "left": "▁dol",
+        "right": "p",
+        "token": "▁dolp",
+        "count": 4
+    },
+    {
+        "left": "▁dolp",
+        "right": "hin",
+        "token": "▁dolphin",
+        "count": 4
+    },
+    {
+        "left": "▁squ",
+        "right": "id.",
+        "token": "▁squid.",
+        "count": 4
+    },
+    {
+        "left": "▁wh",
+        "right": "al",
+        "token": "▁whal",
+        "count": 4
+    },
+    {
+        "left": "▁sh",
+        "right": "ark",
+        "token": "▁shark",
+        "count": 4
+    },
+    {
+        "left": "g",
+        "right": "u",
+        "token": "gu",
+        "count": 4
+    },
+    {
+        "left": "▁o",
+        "right": "ct",
+        "token": "▁oct",
+        "count": 4
+    },
+    {
+        "left": "▁oct",
+        "right": "op",
+        "token": "▁octop",
+        "count": 4
+    },
+    {
+        "left": "b",
+        "right": "all.",
+        "token": "ball.",
+        "count": 4
+    },
+    {
+        "left": "oo",
+        "right": "k",
+        "token": "ook",
+        "count": 4
+    },
+    {
+        "left": "m",
+        "right": "in",
+        "token": "min",
+        "count": 4
+    },
+    {
+        "left": "▁stud",
+        "right": "ent",
+        "token": "▁student",
+        "count": 4
+    },
+    {
+        "left": "▁stud",
+        "right": "ies",
+        "token": "▁studies",
+        "count": 4
+    },
+    {
+        "left": "▁n",
+        "right": "ur",
+        "token": "▁nur",
+        "count": 4
+    },
+    {
+        "left": "▁nur",
+        "right": "se",
+        "token": "▁nurse",
+        "count": 4
+    },
+    {
+        "left": "▁che",
+        "right": "f",
+        "token": "▁chef",
+        "count": 4
+    },
+    {
+        "left": "▁ba",
+        "right": "kes",
+        "token": "▁bakes",
+        "count": 4
+    },
+    {
+        "left": "e",
+        "right": "g",
+        "token": "eg",
+        "count": 4
+    },
+    {
+        "left": "▁b",
+        "right": "ak",
+        "token": "▁bak",
+        "count": 4
+    },
+    {
+        "left": "▁bak",
+        "right": "er",
+        "token": "▁baker",
+        "count": 4
+    },
+    {
+        "left": "▁ar",
+        "right": "t",
+        "token": "▁art",
+        "count": 4
+    },
+    {
+        "left": "▁art",
+        "right": "ist",
+        "token": "▁artist",
+        "count": 4
+    },
+    {
+        "left": "che",
+        "right": "s",
+        "token": "ches",
+        "count": 4
+    },
+    {
+        "left": "▁mus",
+        "right": "ician",
+        "token": "▁musician",
+        "count": 4
+    },
+    {
+        "left": "▁s",
+        "right": "ing",
+        "token": "▁sing",
+        "count": 4
+    },
+    {
+        "left": "▁sing",
+        "right": "er",
+        "token": "▁singer",
+        "count": 4
+    },
+    {
+        "left": "▁w",
+        "right": "rit",
+        "token": "▁writ",
+        "count": 4
+    },
+    {
+        "left": "▁writ",
+        "right": "er",
+        "token": "▁writer",
+        "count": 4
+    },
+    {
+        "left": "▁pil",
+        "right": "ot",
+        "token": "▁pilot",
+        "count": 4
+    },
+    {
+        "left": "▁st",
+        "right": "e",
+        "token": "▁ste",
+        "count": 4
+    },
+    {
+        "left": "e",
+        "right": "ts.",
+        "token": "ets.",
+        "count": 4
+    },
+    {
+        "left": "▁dri",
+        "right": "ver",
+        "token": "▁driver",
+        "count": 4
+    },
+    {
+        "left": "▁t",
+        "right": "ru",
+        "token": "▁tru",
+        "count": 4
+    },
+    {
+        "left": "i",
+        "right": "f",
+        "token": "if",
+        "count": 4
+    },
+    {
+        "left": "▁m",
+        "right": "ec",
+        "token": "▁mec",
+        "count": 4
+    },
+    {
+        "left": "▁mec",
+        "right": "h",
+        "token": "▁mech",
+        "count": 4
+    },
+    {
+        "left": "▁mech",
+        "right": "an",
+        "token": "▁mechan",
+        "count": 4
+    },
+    {
+        "left": "▁mechan",
+        "right": "ic",
+        "token": "▁mechanic",
+        "count": 4
+    },
+    {
+        "left": "x",
+        "right": "es",
+        "token": "xes",
+        "count": 4
+    },
+    {
+        "left": "▁car",
+        "right": "p",
+        "token": "▁carp",
+        "count": 4
+    },
+    {
+        "left": "▁carp",
+        "right": "enter",
+        "token": "▁carpenter",
+        "count": 4
+    },
+    {
+        "left": "▁pl",
+        "right": "um",
+        "token": "▁plum",
+        "count": 4
+    },
+    {
+        "left": "▁plum",
+        "right": "ber",
+        "token": "▁plumber",
+        "count": 4
+    },
+    {
+        "left": "i",
+        "right": "p",
+        "token": "ip",
+        "count": 4
+    },
+    {
+        "left": "▁el",
+        "right": "ect",
+        "token": "▁elect",
+        "count": 4
+    },
+    {
+        "left": "▁elect",
+        "right": "r",
+        "token": "▁electr",
+        "count": 4
+    },
+    {
+        "left": "▁electr",
+        "right": "ician",
+        "token": "▁electrician",
+        "count": 4
+    },
+    {
+        "left": "▁g",
+        "right": "ard",
+        "token": "▁gard",
+        "count": 4
+    },
+    {
+        "left": "▁gard",
+        "right": "ener",
+        "token": "▁gardener",
+        "count": 4
+    },
+    {
+        "left": "▁f",
+        "right": "arm",
+        "token": "▁farm",
+        "count": 4
+    },
+    {
+        "left": "▁farm",
+        "right": "er",
+        "token": "▁farmer",
+        "count": 4
+    },
+    {
+        "left": "▁fis",
+        "right": "her",
+        "token": "▁fisher",
+        "count": 4
+    },
+    {
+        "left": "▁fisher",
+        "right": "m",
+        "token": "▁fisherm",
+        "count": 4
+    },
+    {
+        "left": "▁fisherm",
+        "right": "an",
+        "token": "▁fisherman",
+        "count": 4
+    },
+    {
+        "left": "▁h",
+        "right": "un",
+        "token": "▁hun",
+        "count": 4
+    },
+    {
+        "left": "▁hun",
+        "right": "ter",
+        "token": "▁hunter",
+        "count": 4
+    },
+    {
+        "left": "▁ar",
+        "right": "ch",
+        "token": "▁arch",
+        "count": 4
+    },
+    {
+        "left": "▁arch",
+        "right": "it",
+        "token": "▁archit",
+        "count": 4
+    },
+    {
+        "left": "▁archit",
+        "right": "ect",
+        "token": "▁architect",
+        "count": 4
+    },
+    {
+        "left": "▁b",
+        "right": "l",
+        "token": "▁bl",
+        "count": 4
+    },
+    {
+        "left": "▁engin",
+        "right": "eer",
+        "token": "▁engineer",
+        "count": 4
+    },
+    {
+        "left": "▁sci",
+        "right": "ent",
+        "token": "▁scient",
+        "count": 4
+    },
+    {
+        "left": "▁scient",
+        "right": "ist",
+        "token": "▁scientist",
+        "count": 4
+    },
+    {
+        "left": "p",
+        "right": "er",
+        "token": "per",
+        "count": 4
+    },
+    {
+        "left": "at",
+        "right": "ions.",
+        "token": "ations.",
+        "count": 4
+    },
+    {
+        "left": "▁law",
+        "right": "y",
+        "token": "▁lawy",
+        "count": 4
+    },
+    {
+        "left": "▁lawy",
+        "right": "er",
+        "token": "▁lawyer",
+        "count": 4
+    },
+    {
+        "left": "▁j",
+        "right": "ud",
+        "token": "▁jud",
+        "count": 4
+    },
+    {
+        "left": "▁jud",
+        "right": "ge",
+        "token": "▁judge",
+        "count": 4
+    },
+    {
+        "left": "▁pol",
+        "right": "ice",
+        "token": "▁police",
+        "count": 4
+    },
+    {
+        "left": "▁o",
+        "right": "ffic",
+        "token": "▁offic",
+        "count": 4
+    },
+    {
+        "left": "▁offic",
+        "right": "er",
+        "token": "▁officer",
+        "count": 4
+    },
+    {
+        "left": "▁fire",
+        "right": "f",
+        "token": "▁firef",
+        "count": 4
+    },
+    {
+        "left": "▁firef",
+        "right": "igh",
+        "token": "▁firefigh",
+        "count": 4
+    },
+    {
+        "left": "▁firefigh",
+        "right": "ter",
+        "token": "▁firefighter",
+        "count": 4
+    },
+    {
+        "left": "u",
+        "right": "ts",
+        "token": "uts",
+        "count": 4
+    },
+    {
+        "left": "l",
+        "right": "e.",
+        "token": "le.",
+        "count": 4
+    },
+    {
+        "left": "er",
+        "right": "s.",
+        "token": "ers.",
+        "count": 4
+    },
+    {
+        "left": "▁po",
+        "right": "st",
+        "token": "▁post",
+        "count": 4
+    },
+    {
+        "left": "▁post",
+        "right": "al",
+        "token": "▁postal",
+        "count": 4
+    },
+    {
+        "left": "▁wor",
+        "right": "k",
+        "token": "▁work",
+        "count": 4
+    },
+    {
+        "left": "▁work",
+        "right": "er",
+        "token": "▁worker",
+        "count": 4
+    },
+    {
+        "left": "▁che",
+        "right": "eta",
+        "token": "▁cheeta",
+        "count": 4
+    },
+    {
+        "left": "▁cheeta",
+        "right": "h",
+        "token": "▁cheetah",
+        "count": 4
+    },
+    {
+        "left": "▁le",
+        "right": "op",
+        "token": "▁leop",
+        "count": 4
+    },
+    {
+        "left": "▁leop",
+        "right": "ard",
+        "token": "▁leopard",
+        "count": 4
+    },
+    {
+        "left": "▁h",
+        "right": "i",
+        "token": "▁hi",
+        "count": 4
+    },
+    {
+        "left": "▁hi",
+        "right": "pp",
+        "token": "▁hipp",
+        "count": 4
+    },
+    {
+        "left": "▁hipp",
+        "right": "o",
+        "token": "▁hippo",
+        "count": 4
+    },
+    {
+        "left": "▁r",
+        "right": "hin",
+        "token": "▁rhin",
+        "count": 4
+    },
+    {
+        "left": "▁rhin",
+        "right": "o",
+        "token": "▁rhino",
+        "count": 4
+    },
+    {
+        "left": "▁b",
+        "right": "r",
+        "token": "▁br",
+        "count": 4
+    },
+    {
+        "left": "▁g",
+        "right": "i",
+        "token": "▁gi",
+        "count": 4
+    },
+    {
+        "left": "▁gi",
+        "right": "ra",
+        "token": "▁gira",
+        "count": 4
+    },
+    {
+        "left": "▁gira",
+        "right": "ff",
+        "token": "▁giraff",
+        "count": 4
+    },
+    {
+        "left": "▁giraff",
+        "right": "e",
+        "token": "▁giraffe",
+        "count": 4
+    },
+    {
+        "left": "▁k",
+        "right": "ang",
+        "token": "▁kang",
+        "count": 4
+    },
+    {
+        "left": "▁kang",
+        "right": "ar",
+        "token": "▁kangar",
+        "count": 4
+    },
+    {
+        "left": "▁kangar",
+        "right": "oo",
+        "token": "▁kangaroo",
+        "count": 4
+    },
+    {
+        "left": "▁c",
+        "right": "am",
+        "token": "▁cam",
+        "count": 4
+    },
+    {
+        "left": "▁cam",
+        "right": "el",
+        "token": "▁camel",
+        "count": 4
+    },
+    {
+        "left": "▁sal",
+        "right": "t",
+        "token": "▁salt",
+        "count": 4
+    },
+    {
+        "left": "▁b",
+        "right": "eav",
+        "token": "▁beav",
+        "count": 4
+    },
+    {
+        "left": "▁beav",
+        "right": "er",
+        "token": "▁beaver",
+        "count": 4
+    },
+    {
+        "left": "▁o",
+        "right": "t",
+        "token": "▁ot",
+        "count": 4
+    },
+    {
+        "left": "▁ot",
+        "right": "ter",
+        "token": "▁otter",
+        "count": 4
+    },
+    {
+        "left": "▁se",
+        "right": "al",
+        "token": "▁seal",
+        "count": 4
+    },
+    {
+        "left": "▁wal",
+        "right": "ru",
+        "token": "▁walru",
+        "count": 4
+    },
+    {
+        "left": "▁walru",
+        "right": "s",
+        "token": "▁walrus",
+        "count": 4
+    },
+    {
+        "left": "▁pol",
+        "right": "ar",
+        "token": "▁polar",
+        "count": 4
+    },
+    {
+        "left": "▁slo",
+        "right": "t",
+        "token": "▁slot",
+        "count": 4
+    },
+    {
+        "left": "▁slot",
+        "right": "h",
+        "token": "▁sloth",
+        "count": 4
+    },
+    {
+        "left": "▁ar",
+        "right": "m",
+        "token": "▁arm",
+        "count": 4
+    },
+    {
+        "left": "▁arm",
+        "right": "ad",
+        "token": "▁armad",
+        "count": 4
+    },
+    {
+        "left": "▁armad",
+        "right": "il",
+        "token": "▁armadil",
+        "count": 4
+    },
+    {
+        "left": "▁armadil",
+        "right": "lo",
+        "token": "▁armadillo",
+        "count": 4
+    },
+    {
+        "left": "▁ant",
+        "right": "eat",
+        "token": "▁anteat",
+        "count": 4
+    },
+    {
+        "left": "▁anteat",
+        "right": "er",
+        "token": "▁anteater",
+        "count": 4
+    },
+    {
+        "left": "▁pl",
+        "right": "at",
+        "token": "▁plat",
+        "count": 4
+    },
+    {
+        "left": "▁plat",
+        "right": "yp",
+        "token": "▁platyp",
+        "count": 4
+    },
+    {
+        "left": "▁platyp",
+        "right": "us",
+        "token": "▁platypus",
+        "count": 4
+    },
+    {
+        "left": "▁lem",
+        "right": "ur",
+        "token": "▁lemur",
+        "count": 4
+    },
+    {
+        "left": "▁m",
+        "right": "eer",
+        "token": "▁meer",
+        "count": 4
+    },
+    {
+        "left": "▁meer",
+        "right": "k",
+        "token": "▁meerk",
+        "count": 4
+    },
+    {
+        "left": "▁meerk",
+        "right": "at",
+        "token": "▁meerkat",
+        "count": 4
+    },
+    {
+        "left": "▁h",
+        "right": "y",
+        "token": "▁hy",
+        "count": 4
+    },
+    {
+        "left": "▁hy",
+        "right": "en",
+        "token": "▁hyen",
+        "count": 4
+    },
+    {
+        "left": "▁hyen",
+        "right": "a",
+        "token": "▁hyena",
+        "count": 4
+    },
+    {
+        "left": "▁j",
+        "right": "ack",
+        "token": "▁jack",
+        "count": 4
+    },
+    {
+        "left": "▁jack",
+        "right": "al",
+        "token": "▁jackal",
+        "count": 4
+    },
+    {
+        "left": "▁bad",
+        "right": "ger",
+        "token": "▁badger",
+        "count": 4
+    },
+    {
+        "left": "▁ra",
+        "right": "c",
+        "token": "▁rac",
+        "count": 4
+    },
+    {
+        "left": "▁rac",
+        "right": "co",
+        "token": "▁racco",
+        "count": 4
+    },
+    {
+        "left": "▁racco",
+        "right": "on",
+        "token": "▁raccoon",
+        "count": 4
+    },
+    {
+        "left": "▁sk",
+        "right": "un",
+        "token": "▁skun",
+        "count": 4
+    },
+    {
+        "left": "▁skun",
+        "right": "k",
+        "token": "▁skunk",
+        "count": 4
+    },
+    {
+        "left": "▁m",
+        "right": "ol",
+        "token": "▁mol",
+        "count": 4
+    },
+    {
+        "left": "▁mol",
+        "right": "e",
+        "token": "▁mole",
+        "count": 4
+    },
+    {
+        "left": "▁sh",
+        "right": "re",
+        "token": "▁shre",
+        "count": 4
+    },
+    {
+        "left": "▁shre",
+        "right": "w",
+        "token": "▁shrew",
+        "count": 4
+    },
+    {
+        "left": "▁por",
+        "right": "c",
+        "token": "▁porc",
+        "count": 4
+    },
+    {
+        "left": "▁porc",
+        "right": "up",
+        "token": "▁porcup",
+        "count": 4
+    },
+    {
+        "left": "▁porcup",
+        "right": "ine",
+        "token": "▁porcupine",
+        "count": 4
+    },
+    {
+        "left": "▁b",
+        "right": "is",
+        "token": "▁bis",
+        "count": 4
+    },
+    {
+        "left": "▁bis",
+        "right": "on",
+        "token": "▁bison",
+        "count": 4
+    },
+    {
+        "left": "▁m",
+        "right": "oo",
+        "token": "▁moo",
+        "count": 4
+    },
+    {
+        "left": "▁moo",
+        "right": "se",
+        "token": "▁moose",
+        "count": 4
+    },
+    {
+        "left": "▁el",
+        "right": "k",
+        "token": "▁elk",
+        "count": 4
+    },
+    {
+        "left": "▁antelop",
+        "right": "e",
+        "token": "▁antelope",
+        "count": 4
+    },
+    {
+        "left": "t",
+        "right": "ain",
+        "token": "tain",
+        "count": 4
+    },
+    {
+        "left": "on",
+        "right": "g",
+        "token": "ong",
+        "count": 4
+    },
+    {
+        "left": "ong",
+        "right": ".",
+        "token": "ong.",
+        "count": 4
+    },
+    {
+        "left": "a",
+        "right": "b",
+        "token": "ab",
+        "count": 4
+    },
+    {
+        "left": "▁sw",
+        "right": "e",
+        "token": "▁swe",
+        "count": 4
+    },
+    {
+        "left": "▁swe",
+        "right": "et.",
+        "token": "▁sweet.",
+        "count": 4
+    },
+    {
+        "left": "▁T",
+        "right": "rans",
+        "token": "▁Trans",
+        "count": 4
+    },
+    {
+        "left": "ion",
+        "right": ".",
+        "token": "ion.",
+        "count": 4
+    },
+    {
+        "left": "▁co",
+        "right": "mp",
+        "token": "▁comp",
+        "count": 4
+    },
+    {
+        "left": "k",
+        "right": "en",
+        "token": "ken",
+        "count": 4
+    },
+    {
+        "left": "ex",
+        "right": "t.",
+        "token": "ext.",
+        "count": 4
+    },
+    {
+        "left": "▁feat",
+        "right": "ures.",
+        "token": "▁features.",
+        "count": 4
+    },
+    {
+        "left": "at",
+        "right": "ions",
+        "token": "ations",
+        "count": 4
+    },
+    {
+        "left": "en",
+        "right": "ts",
+        "token": "ents",
+        "count": 4
+    },
+    {
+        "left": "id",
+        "right": "e",
+        "token": "ide",
+        "count": 4
+    },
+    {
+        "left": "at",
+        "right": "es.",
+        "token": "ates.",
+        "count": 4
+    },
+    {
+        "left": "j",
+        "right": "ect",
+        "token": "ject",
+        "count": 4
+    },
+    {
+        "left": "p",
+        "right": "uts.",
+        "token": "puts.",
+        "count": 4
+    },
+    {
+        "left": "at",
+        "right": "ors",
+        "token": "ators",
+        "count": 4
+    },
+    {
+        "left": "▁m",
+        "right": "ilk",
+        "token": "▁milk",
+        "count": 3
+    },
+    {
+        "left": "▁b",
+        "right": "on",
+        "token": "▁bon",
+        "count": 3
+    },
+    {
+        "left": "▁bon",
+        "right": "es.",
+        "token": "▁bones.",
+        "count": 3
+    },
+    {
+        "left": "▁bread",
+        "right": ".",
+        "token": "▁bread.",
+        "count": 3
+    },
+    {
+        "left": "▁bir",
+        "right": "d",
+        "token": "▁bird",
+        "count": 3
+    },
+    {
+        "left": "▁l",
+        "right": "et",
+        "token": "▁let",
+        "count": 3
+    },
+    {
+        "left": "▁a",
+        "right": "pp",
+        "token": "▁app",
+        "count": 3
+    },
+    {
+        "left": "▁app",
+        "right": "les.",
+        "token": "▁apples.",
+        "count": 3
+    },
+    {
+        "left": "on",
+        "right": ".",
+        "token": "on.",
+        "count": 3
+    },
+    {
+        "left": "▁h",
+        "right": "ay.",
+        "token": "▁hay.",
+        "count": 3
+    },
+    {
+        "left": "in",
+        "right": ".",
+        "token": "in.",
+        "count": 3
+    },
+    {
+        "left": "▁n",
+        "right": "uts.",
+        "token": "▁nuts.",
+        "count": 3
+    },
+    {
+        "left": "▁rabb",
+        "right": "its.",
+        "token": "▁rabbits.",
+        "count": 3
+    },
+    {
+        "left": "t",
+        "right": "u",
+        "token": "tu",
+        "count": 3
+    },
+    {
+        "left": "▁bu",
+        "right": "ds.",
+        "token": "▁buds.",
+        "count": 3
+    },
+    {
+        "left": "▁plan",
+        "right": "ts.",
+        "token": "▁plants.",
+        "count": 3
+    },
+    {
+        "left": "p",
+        "right": ".",
+        "token": "p.",
+        "count": 3
+    },
+    {
+        "left": "▁bir",
+        "right": "ds.",
+        "token": "▁birds.",
+        "count": 3
+    },
+    {
+        "left": "▁sh",
+        "right": "ri",
+        "token": "▁shri",
+        "count": 3
+    },
+    {
+        "left": "▁shri",
+        "right": "mp",
+        "token": "▁shrimp",
+        "count": 3
+    },
+    {
+        "left": "▁shrimp",
+        "right": ".",
+        "token": "▁shrimp.",
+        "count": 3
+    },
+    {
+        "left": "▁whal",
+        "right": "e",
+        "token": "▁whale",
+        "count": 3
+    },
+    {
+        "left": "▁k",
+        "right": "r",
+        "token": "▁kr",
+        "count": 3
+    },
+    {
+        "left": "▁kr",
+        "right": "il",
+        "token": "▁kril",
+        "count": 3
+    },
+    {
+        "left": "▁kril",
+        "right": "l.",
+        "token": "▁krill.",
+        "count": 3
+    },
+    {
+        "left": "▁pen",
+        "right": "gu",
+        "token": "▁pengu",
+        "count": 3
+    },
+    {
+        "left": "▁pengu",
+        "right": "in",
+        "token": "▁penguin",
+        "count": 3
+    },
+    {
+        "left": "▁octop",
+        "right": "us",
+        "token": "▁octopus",
+        "count": 3
+    },
+    {
+        "left": "▁cra",
+        "right": "bs.",
+        "token": "▁crabs.",
+        "count": 3
+    },
+    {
+        "left": "▁cra",
+        "right": "b",
+        "token": "▁crab",
+        "count": 3
+    },
+    {
+        "left": "▁",
+        "right": "al",
+        "token": "▁al",
+        "count": 3
+    },
+    {
+        "left": "a",
+        "right": "e.",
+        "token": "ae.",
+        "count": 3
+    },
+    {
+        "left": "▁lo",
+        "right": "bs",
+        "token": "▁lobs",
+        "count": 3
+    },
+    {
+        "left": "▁lobs",
+        "right": "ter",
+        "token": "▁lobster",
+        "count": 3
+    },
+    {
+        "left": "r",
+        "right": "y.",
+        "token": "ry.",
+        "count": 3
+    },
+    {
+        "left": "▁g",
+        "right": "e",
+        "token": "▁ge",
+        "count": 3
+    },
+    {
+        "left": "▁p",
+        "right": "at",
+        "token": "▁pat",
+        "count": 3
+    },
+    {
+        "left": "▁p",
+        "right": "res",
+        "token": "▁pres",
+        "count": 3
+    },
+    {
+        "left": "▁p",
+        "right": "er",
+        "token": "▁per",
+        "count": 3
+    },
+    {
+        "left": "▁per",
+        "right": "form",
+        "token": "▁perform",
+        "count": 3
+    },
+    {
+        "left": "as",
+        "right": "t",
+        "token": "ast",
+        "count": 3
+    },
+    {
+        "left": "ug",
+        "right": "h.",
+        "token": "ugh.",
+        "count": 3
+    },
+    {
+        "left": "o",
+        "right": ".",
+        "token": "o.",
+        "count": 3
+    },
+    {
+        "left": "ck",
+        "right": "s.",
+        "token": "cks.",
+        "count": 3
+    },
+    {
+        "left": "es",
+        "right": "s",
+        "token": "ess",
+        "count": 3
+    },
+    {
+        "left": "▁fi",
+        "right": "xes",
+        "token": "▁fixes",
+        "count": 3
+    },
+    {
+        "left": "a",
+        "right": "ir",
+        "token": "air",
+        "count": 3
+    },
+    {
+        "left": "▁bu",
+        "right": "ild",
+        "token": "▁build",
+        "count": 3
+    },
+    {
+        "left": "▁w",
+        "right": "oo",
+        "token": "▁woo",
+        "count": 3
+    },
+    {
+        "left": "▁c",
+        "right": "le",
+        "token": "▁cle",
+        "count": 3
+    },
+    {
+        "left": "l",
+        "right": "s",
+        "token": "ls",
+        "count": 3
+    },
+    {
+        "left": "es",
+        "right": "ts",
+        "token": "ests",
+        "count": 3
+    },
+    {
+        "left": "a",
+        "right": "c",
+        "token": "ac",
+        "count": 3
+    },
+    {
+        "left": "▁h",
+        "right": "ar",
+        "token": "▁har",
+        "count": 3
+    },
+    {
+        "left": "ro",
+        "right": "w",
+        "token": "row",
+        "count": 3
+    },
+    {
+        "left": "et",
+        "right": "s",
+        "token": "ets",
+        "count": 3
+    },
+    {
+        "left": "▁d",
+        "right": "es",
+        "token": "▁des",
+        "count": 3
+    },
+    {
+        "left": "ig",
+        "right": "n",
+        "token": "ign",
+        "count": 3
+    },
+    {
+        "left": "ru",
+        "right": "ct",
+        "token": "ruct",
+        "count": 3
+    },
+    {
+        "left": "▁con",
+        "right": "d",
+        "token": "▁cond",
+        "count": 3
+    },
+    {
+        "left": "▁",
+        "right": "an",
+        "token": "▁an",
+        "count": 3
+    },
+    {
+        "left": "▁d",
+        "right": "at",
+        "token": "▁dat",
+        "count": 3
+    },
+    {
+        "left": "▁dat",
+        "right": "a",
+        "token": "▁data",
+        "count": 3
+    },
+    {
+        "left": "▁data",
+        "right": ".",
+        "token": "▁data.",
+        "count": 3
+    },
+    {
+        "left": "er",
+        "right": "v",
+        "token": "erv",
+        "count": 3
+    },
+    {
+        "left": "▁de",
+        "right": "f",
+        "token": "▁def",
+        "count": 3
+    },
+    {
+        "left": "enc",
+        "right": "es",
+        "token": "ences",
+        "count": 3
+    },
+    {
+        "left": "▁ev",
+        "right": "alu",
+        "token": "▁evalu",
+        "count": 3
+    },
+    {
+        "left": "iv",
+        "right": "ers",
+        "token": "ivers",
+        "count": 3
+    },
+    {
+        "left": "▁o",
+        "right": "ut",
+        "token": "▁out",
+        "count": 3
+    },
+    {
+        "left": "ag",
+        "right": "es.",
+        "token": "ages.",
+        "count": 3
+    },
+    {
+        "left": "▁",
+        "right": "im",
+        "token": "▁im",
+        "count": 3
+    },
+    {
+        "left": "▁t",
+        "right": "h",
+        "token": "▁th",
+        "count": 3
+    },
+    {
+        "left": "▁l",
+        "right": "ar",
+        "token": "▁lar",
+        "count": 3
+    },
+    {
+        "left": "▁g",
+        "right": "rubs.",
+        "token": "▁grubs.",
+        "count": 3
+    },
+    {
+        "left": "▁f",
+        "right": "low",
+        "token": "▁flow",
+        "count": 3
+    },
+    {
+        "left": "▁ho",
+        "right": "t.",
+        "token": "▁hot.",
+        "count": 3
+    },
+    {
+        "left": "▁br",
+        "right": "igh",
+        "token": "▁brigh",
+        "count": 3
+    },
+    {
+        "left": "▁brigh",
+        "right": "t.",
+        "token": "▁bright.",
+        "count": 3
+    },
+    {
+        "left": "▁g",
+        "right": "re",
+        "token": "▁gre",
+        "count": 3
+    },
+    {
+        "left": "o",
+        "right": "w",
+        "token": "ow",
+        "count": 3
+    },
+    {
+        "left": "ep",
+        "right": ".",
+        "token": "ep.",
+        "count": 3
+    },
+    {
+        "left": "▁w",
+        "right": "in",
+        "token": "▁win",
+        "count": 3
+    },
+    {
+        "left": "c",
+        "right": "e.",
+        "token": "ce.",
+        "count": 3
+    },
+    {
+        "left": "t",
+        "right": "t",
+        "token": "tt",
+        "count": 3
+    },
+    {
+        "left": "▁we",
+        "right": "igh",
+        "token": "▁weigh",
+        "count": 3
+    },
+    {
+        "left": "▁E",
+        "right": "m",
+        "token": "▁Em",
+        "count": 3
+    },
+    {
+        "left": "▁Em",
+        "right": "b",
+        "token": "▁Emb",
+        "count": 3
+    },
+    {
+        "left": "▁Emb",
+        "right": "e",
+        "token": "▁Embe",
+        "count": 3
+    },
+    {
+        "left": "▁Embe",
+        "right": "d",
+        "token": "▁Embed",
+        "count": 3
+    },
+    {
+        "left": "▁Embed",
+        "right": "dings",
+        "token": "▁Embeddings",
+        "count": 3
+    },
+    {
+        "left": "▁rep",
+        "right": "res",
+        "token": "▁repres",
+        "count": 3
+    },
+    {
+        "left": "▁repres",
+        "right": "ent",
+        "token": "▁represent",
+        "count": 3
+    },
+    {
+        "left": "ing",
+        "right": ".",
+        "token": "ing.",
+        "count": 3
+    },
+    {
+        "left": "▁",
+        "right": "H",
+        "token": "▁H",
+        "count": 3
+    },
+    {
+        "left": "▁pre",
+        "right": "dic",
+        "token": "▁predic",
+        "count": 3
+    },
+    {
+        "left": "▁to",
+        "right": "ken",
+        "token": "▁token",
+        "count": 3
+    },
+    {
+        "left": "▁token",
+        "right": "s.",
+        "token": "▁tokens.",
+        "count": 3
+    },
+    {
+        "left": "▁t",
+        "right": "ext.",
+        "token": "▁text.",
+        "count": 3
+    },
+    {
+        "left": "▁E",
+        "right": "n",
+        "token": "▁En",
+        "count": 3
+    },
+    {
+        "left": "co",
+        "right": "ders",
+        "token": "coders",
+        "count": 3
+    },
+    {
+        "left": "tra",
+        "right": "ct",
+        "token": "tract",
+        "count": 3
+    },
+    {
+        "left": "it",
+        "right": "y.",
+        "token": "ity.",
+        "count": 3
+    },
+    {
+        "left": "▁",
+        "right": "G",
+        "token": "▁G",
+        "count": 3
+    },
+    {
+        "left": "▁s",
+        "right": "amp",
+        "token": "▁samp",
+        "count": 3
+    },
+    {
+        "left": "▁samp",
+        "right": "les.",
+        "token": "▁samples.",
+        "count": 3
+    },
+    {
+        "left": "p",
+        "right": "o",
+        "token": "po",
+        "count": 3
+    },
+    {
+        "left": "en",
+        "right": "s",
+        "token": "ens",
+        "count": 3
+    },
+    {
+        "left": "▁pro",
+        "right": "v",
+        "token": "▁prov",
+        "count": 3
+    },
+    {
+        "left": "▁prov",
+        "right": "ide",
+        "token": "▁provide",
+        "count": 3
+    },
+    {
+        "left": "▁st",
+        "right": "ates.",
+        "token": "▁states.",
+        "count": 3
+    },
+    {
+        "left": "▁",
+        "right": "V",
+        "token": "▁V",
+        "count": 3
+    },
+    {
+        "left": "▁",
+        "right": "qu",
+        "token": "▁qu",
+        "count": 3
+    },
+    {
+        "left": "▁in",
+        "right": "puts.",
+        "token": "▁inputs.",
+        "count": 3
+    },
+    {
+        "left": "y",
+        "right": "n",
+        "token": "yn",
+        "count": 3
+    },
+    {
+        "left": "▁E",
+        "right": "x",
+        "token": "▁Ex",
+        "count": 3
+    },
+    {
+        "left": "▁ch",
+        "right": "ick",
+        "token": "▁chick",
+        "count": 2
+    },
+    {
+        "left": "▁chick",
+        "right": "en.",
+        "token": "▁chicken.",
+        "count": 2
+    },
+    {
+        "left": "▁car",
+        "right": "ro",
+        "token": "▁carro",
+        "count": 2
+    },
+    {
+        "left": "▁carro",
+        "right": "ts.",
+        "token": "▁carrots.",
+        "count": 2
+    },
+    {
+        "left": "▁let",
+        "right": "t",
+        "token": "▁lett",
+        "count": 2
+    },
+    {
+        "left": "▁lett",
+        "right": "uc",
+        "token": "▁lettuc",
+        "count": 2
+    },
+    {
+        "left": "▁lettuc",
+        "right": "e.",
+        "token": "▁lettuce.",
+        "count": 2
+    },
+    {
+        "left": "o",
+        "right": "es.",
+        "token": "oes.",
+        "count": 2
+    },
+    {
+        "left": "on",
+        "right": "e",
+        "token": "one",
+        "count": 2
+    },
+    {
+        "left": "at",
+        "right": "s.",
+        "token": "ats.",
+        "count": 2
+    },
+    {
+        "left": "▁che",
+        "right": "es",
+        "token": "▁chees",
+        "count": 2
+    },
+    {
+        "left": "▁gra",
+        "right": "in.",
+        "token": "▁grain.",
+        "count": 2
+    },
+    {
+        "left": "▁s",
+        "right": "ug",
+        "token": "▁sug",
+        "count": 2
+    },
+    {
+        "left": "▁sug",
+        "right": "ar",
+        "token": "▁sugar",
+        "count": 2
+    },
+    {
+        "left": "▁b",
+        "right": "am",
+        "token": "▁bam",
+        "count": 2
+    },
+    {
+        "left": "▁bam",
+        "right": "b",
+        "token": "▁bamb",
+        "count": 2
+    },
+    {
+        "left": "▁bamb",
+        "right": "oo",
+        "token": "▁bamboo",
+        "count": 2
+    },
+    {
+        "left": "▁bamboo",
+        "right": ".",
+        "token": "▁bamboo.",
+        "count": 2
+    },
+    {
+        "left": "▁f",
+        "right": "l",
+        "token": "▁fl",
+        "count": 2
+    },
+    {
+        "left": "or",
+        "right": "n",
+        "token": "orn",
+        "count": 2
+    },
+    {
+        "left": "▁clo",
+        "right": "ver",
+        "token": "▁clover",
+        "count": 2
+    },
+    {
+        "left": "▁clover",
+        "right": ".",
+        "token": "▁clover.",
+        "count": 2
+    },
+    {
+        "left": "▁we",
+        "right": "eds.",
+        "token": "▁weeds.",
+        "count": 2
+    },
+    {
+        "left": "▁v",
+        "right": "ol",
+        "token": "▁vol",
+        "count": 2
+    },
+    {
+        "left": "▁snak",
+        "right": "es.",
+        "token": "▁snakes.",
+        "count": 2
+    },
+    {
+        "left": "▁a",
+        "right": "cor",
+        "token": "▁acor",
+        "count": 2
+    },
+    {
+        "left": "▁acor",
+        "right": "ns.",
+        "token": "▁acorns.",
+        "count": 2
+    },
+    {
+        "left": "t",
+        "right": "on.",
+        "token": "ton.",
+        "count": 2
+    },
+    {
+        "left": "▁se",
+        "right": "als.",
+        "token": "▁seals.",
+        "count": 2
+    },
+    {
+        "left": "▁cl",
+        "right": "am",
+        "token": "▁clam",
+        "count": 2
+    },
+    {
+        "left": "▁clam",
+        "right": "s.",
+        "token": "▁clams.",
+        "count": 2
+    },
+    {
+        "left": "oo",
+        "right": "t",
+        "token": "oot",
+        "count": 2
+    },
+    {
+        "left": "▁t",
+        "right": "en",
+        "token": "▁ten",
+        "count": 2
+    },
+    {
+        "left": "ook",
+        "right": "s.",
+        "token": "ooks.",
+        "count": 2
+    },
+    {
+        "left": "▁m",
+        "right": "at",
+        "token": "▁mat",
+        "count": 2
+    },
+    {
+        "left": "▁b",
+        "right": "as",
+        "token": "▁bas",
+        "count": 2
+    },
+    {
+        "left": "k",
+        "right": "et",
+        "token": "ket",
+        "count": 2
+    },
+    {
+        "left": "▁c",
+        "right": "r",
+        "token": "▁cr",
+        "count": 2
+    },
+    {
+        "left": "er",
+        "right": ".",
+        "token": "er.",
+        "count": 2
+    },
+    {
+        "left": "le",
+        "right": "y",
+        "token": "ley",
+        "count": 2
+    },
+    {
+        "left": "▁st",
+        "right": "or",
+        "token": "▁stor",
+        "count": 2
+    },
+    {
+        "left": "a",
+        "right": "z",
+        "token": "az",
+        "count": 2
+    },
+    {
+        "left": "in",
+        "right": "es.",
+        "token": "ines.",
+        "count": 2
+    },
+    {
+        "left": "enc",
+        "right": "e.",
+        "token": "ence.",
+        "count": 2
+    },
+    {
+        "left": "or",
+        "right": "y.",
+        "token": "ory.",
+        "count": 2
+    },
+    {
+        "left": "is",
+        "right": "h.",
+        "token": "ish.",
+        "count": 2
+    },
+    {
+        "left": "▁p",
+        "right": "h",
+        "token": "▁ph",
+        "count": 2
+    },
+    {
+        "left": "▁ph",
+        "right": "y",
+        "token": "▁phy",
+        "count": 2
+    },
+    {
+        "left": "▁phy",
+        "right": "s",
+        "token": "▁phys",
+        "count": 2
+    },
+    {
+        "left": "▁phys",
+        "right": "ics.",
+        "token": "▁physics.",
+        "count": 2
+    },
+    {
+        "left": "▁che",
+        "right": "m",
+        "token": "▁chem",
+        "count": 2
+    },
+    {
+        "left": "i",
+        "right": "ol",
+        "token": "iol",
+        "count": 2
+    },
+    {
+        "left": "i",
+        "right": "ents.",
+        "token": "ients.",
+        "count": 2
+    },
+    {
+        "left": "al",
+        "right": "s",
+        "token": "als",
+        "count": 2
+    },
+    {
+        "left": "▁w",
+        "right": "o",
+        "token": "▁wo",
+        "count": 2
+    },
+    {
+        "left": "c",
+        "right": "ri",
+        "token": "cri",
+        "count": 2
+    },
+    {
+        "left": "▁m",
+        "right": "e",
+        "token": "▁me",
+        "count": 2
+    },
+    {
+        "left": "▁perform",
+        "right": "s",
+        "token": "▁performs",
+        "count": 2
+    },
+    {
+        "left": "ck",
+        "right": "s",
+        "token": "cks",
+        "count": 2
+    },
+    {
+        "left": "▁",
+        "right": "ad",
+        "token": "▁ad",
+        "count": 2
+    },
+    {
+        "left": "ter",
+        "right": "s",
+        "token": "ters",
+        "count": 2
+    },
+    {
+        "left": "▁c",
+        "right": "ook",
+        "token": "▁cook",
+        "count": 2
+    },
+    {
+        "left": "as",
+        "right": "ts",
+        "token": "asts",
+        "count": 2
+    },
+    {
+        "left": "▁c",
+        "right": "ak",
+        "token": "▁cak",
+        "count": 2
+    },
+    {
+        "left": "▁k",
+        "right": "n",
+        "token": "▁kn",
+        "count": 2
+    },
+    {
+        "left": "ea",
+        "right": "ds",
+        "token": "eads",
+        "count": 2
+    },
+    {
+        "left": "▁sk",
+        "right": "et",
+        "token": "▁sket",
+        "count": 2
+    },
+    {
+        "left": "▁sket",
+        "right": "ches",
+        "token": "▁sketches",
+        "count": 2
+    },
+    {
+        "left": "▁l",
+        "right": "and",
+        "token": "▁land",
+        "count": 2
+    },
+    {
+        "left": "▁land",
+        "right": "s",
+        "token": "▁lands",
+        "count": 2
+    },
+    {
+        "left": "▁g",
+        "right": "u",
+        "token": "▁gu",
+        "count": 2
+    },
+    {
+        "left": "▁re",
+        "right": "cor",
+        "token": "▁recor",
+        "count": 2
+    },
+    {
+        "left": "▁recor",
+        "right": "ds",
+        "token": "▁records",
+        "count": 2
+    },
+    {
+        "left": "o",
+        "right": "c",
+        "token": "oc",
+        "count": 2
+    },
+    {
+        "left": "▁dra",
+        "right": "f",
+        "token": "▁draf",
+        "count": 2
+    },
+    {
+        "left": "▁draf",
+        "right": "ts",
+        "token": "▁drafts",
+        "count": 2
+    },
+    {
+        "left": "el",
+        "right": "s.",
+        "token": "els.",
+        "count": 2
+    },
+    {
+        "left": "it",
+        "right": "s",
+        "token": "its",
+        "count": 2
+    },
+    {
+        "left": "ter",
+        "right": "s.",
+        "token": "ters.",
+        "count": 2
+    },
+    {
+        "left": "▁ste",
+        "right": "ers",
+        "token": "▁steers",
+        "count": 2
+    },
+    {
+        "left": "ir",
+        "right": "c",
+        "token": "irc",
+        "count": 2
+    },
+    {
+        "left": "ig",
+        "right": "ates",
+        "token": "igates",
+        "count": 2
+    },
+    {
+        "left": "▁b",
+        "right": "ra",
+        "token": "▁bra",
+        "count": 2
+    },
+    {
+        "left": "▁tru",
+        "right": "cks.",
+        "token": "▁trucks.",
+        "count": 2
+    },
+    {
+        "left": "▁sh",
+        "right": "if",
+        "token": "▁shif",
+        "count": 2
+    },
+    {
+        "left": "▁ge",
+        "right": "ar",
+        "token": "▁gear",
+        "count": 2
+    },
+    {
+        "left": "▁gear",
+        "right": "s.",
+        "token": "▁gears.",
+        "count": 2
+    },
+    {
+        "left": "ir",
+        "right": "es.",
+        "token": "ires.",
+        "count": 2
+    },
+    {
+        "left": "▁o",
+        "right": "il",
+        "token": "▁oil",
+        "count": 2
+    },
+    {
+        "left": "▁build",
+        "right": "s",
+        "token": "▁builds",
+        "count": 2
+    },
+    {
+        "left": "▁ch",
+        "right": "air",
+        "token": "▁chair",
+        "count": 2
+    },
+    {
+        "left": "▁t",
+        "right": "im",
+        "token": "▁tim",
+        "count": 2
+    },
+    {
+        "left": "ar",
+        "right": "s",
+        "token": "ars",
+        "count": 2
+    },
+    {
+        "left": "in",
+        "right": "ts.",
+        "token": "ints.",
+        "count": 2
+    },
+    {
+        "left": "▁ins",
+        "right": "t",
+        "token": "▁inst",
+        "count": 2
+    },
+    {
+        "left": "us",
+        "right": "es.",
+        "token": "uses.",
+        "count": 2
+    },
+    {
+        "left": "che",
+        "right": "s.",
+        "token": "ches.",
+        "count": 2
+    },
+    {
+        "left": "▁t",
+        "right": "ests",
+        "token": "▁tests",
+        "count": 2
+    },
+    {
+        "left": "▁w",
+        "right": "at",
+        "token": "▁wat",
+        "count": 2
+    },
+    {
+        "left": "p",
+        "right": "s.",
+        "token": "ps.",
+        "count": 2
+    },
+    {
+        "left": "el",
+        "right": "s",
+        "token": "els",
+        "count": 2
+    },
+    {
+        "left": "▁",
+        "right": "ri",
+        "token": "▁ri",
+        "count": 2
+    },
+    {
+        "left": "▁des",
+        "right": "ign",
+        "token": "▁design",
+        "count": 2
+    },
+    {
+        "left": "▁design",
+        "right": "s",
+        "token": "▁designs",
+        "count": 2
+    },
+    {
+        "left": "▁bl",
+        "right": "u",
+        "token": "▁blu",
+        "count": 2
+    },
+    {
+        "left": "▁b",
+        "right": "ri",
+        "token": "▁bri",
+        "count": 2
+    },
+    {
+        "left": "d",
+        "right": "g",
+        "token": "dg",
+        "count": 2
+    },
+    {
+        "left": "▁co",
+        "right": "d",
+        "token": "▁cod",
+        "count": 2
+    },
+    {
+        "left": "f",
+        "right": "t",
+        "token": "ft",
+        "count": 2
+    },
+    {
+        "left": "▁an",
+        "right": "al",
+        "token": "▁anal",
+        "count": 2
+    },
+    {
+        "left": "▁anal",
+        "right": "y",
+        "token": "▁analy",
+        "count": 2
+    },
+    {
+        "left": "▁analy",
+        "right": "z",
+        "token": "▁analyz",
+        "count": 2
+    },
+    {
+        "left": "t",
+        "right": "ions.",
+        "token": "tions.",
+        "count": 2
+    },
+    {
+        "left": "▁c",
+        "right": "ri",
+        "token": "▁cri",
+        "count": 2
+    },
+    {
+        "left": "▁d",
+        "right": "el",
+        "token": "▁del",
+        "count": 2
+    },
+    {
+        "left": "▁del",
+        "right": "ivers",
+        "token": "▁delivers",
+        "count": 2
+    },
+    {
+        "left": "▁d",
+        "right": "i",
+        "token": "▁di",
+        "count": 2
+    },
+    {
+        "left": "▁di",
+        "right": "re",
+        "token": "▁dire",
+        "count": 2
+    },
+    {
+        "left": "v",
+        "right": "es",
+        "token": "ves",
+        "count": 2
+    },
+    {
+        "left": "▁o",
+        "right": "per",
+        "token": "▁oper",
+        "count": 2
+    },
+    {
+        "left": "▁bu",
+        "right": "ff",
+        "token": "▁buff",
+        "count": 2
+    },
+    {
+        "left": "▁buff",
+        "right": "al",
+        "token": "▁buffal",
+        "count": 2
+    },
+    {
+        "left": "▁buffal",
+        "right": "o.",
+        "token": "▁buffalo.",
+        "count": 2
+    },
+    {
+        "left": "▁har",
+        "right": "es.",
+        "token": "▁hares.",
+        "count": 2
+    },
+    {
+        "left": "▁s",
+        "right": "il",
+        "token": "▁sil",
+        "count": 2
+    },
+    {
+        "left": "▁im",
+        "right": "p",
+        "token": "▁imp",
+        "count": 2
+    },
+    {
+        "left": "▁ro",
+        "right": "d",
+        "token": "▁rod",
+        "count": 2
+    },
+    {
+        "left": "▁rod",
+        "right": "ents.",
+        "token": "▁rodents.",
+        "count": 2
+    },
+    {
+        "left": "u",
+        "right": "s.",
+        "token": "us.",
+        "count": 2
+    },
+    {
+        "left": "▁s",
+        "right": "ea",
+        "token": "▁sea",
+        "count": 2
+    },
+    {
+        "left": "▁sp",
+        "right": "id",
+        "token": "▁spid",
+        "count": 2
+    },
+    {
+        "left": "▁spid",
+        "right": "ers.",
+        "token": "▁spiders.",
+        "count": 2
+    },
+    {
+        "left": "er",
+        "right": "m",
+        "token": "erm",
+        "count": 2
+    },
+    {
+        "left": "▁lar",
+        "right": "v",
+        "token": "▁larv",
+        "count": 2
+    },
+    {
+        "left": "▁larv",
+        "right": "ae.",
+        "token": "▁larvae.",
+        "count": 2
+    },
+    {
+        "left": "or",
+        "right": "p",
+        "token": "orp",
+        "count": 2
+    },
+    {
+        "left": "▁he",
+        "right": "r",
+        "token": "▁her",
+        "count": 2
+    },
+    {
+        "left": "▁her",
+        "right": "bs.",
+        "token": "▁herbs.",
+        "count": 2
+    },
+    {
+        "left": "▁gre",
+        "right": "en.",
+        "token": "▁green.",
+        "count": 2
+    },
+    {
+        "left": "▁c",
+        "right": "ol",
+        "token": "▁col",
+        "count": 2
+    },
+    {
+        "left": "▁col",
+        "right": "d.",
+        "token": "▁cold.",
+        "count": 2
+    },
+    {
+        "left": "▁wh",
+        "right": "it",
+        "token": "▁whit",
+        "count": 2
+    },
+    {
+        "left": "▁whit",
+        "right": "e.",
+        "token": "▁white.",
+        "count": 2
+    },
+    {
+        "left": "▁de",
+        "right": "ep.",
+        "token": "▁deep.",
+        "count": 2
+    },
+    {
+        "left": "▁l",
+        "right": "ong.",
+        "token": "▁long.",
+        "count": 2
+    },
+    {
+        "left": "m",
+        "right": ".",
+        "token": "m.",
+        "count": 2
+    },
+    {
+        "left": "▁salt",
+        "right": "y.",
+        "token": "▁salty.",
+        "count": 2
+    },
+    {
+        "left": "▁win",
+        "right": "d",
+        "token": "▁wind",
+        "count": 2
+    },
+    {
+        "left": "▁st",
+        "right": "r",
+        "token": "▁str",
+        "count": 2
+    },
+    {
+        "left": "▁str",
+        "right": "ong.",
+        "token": "▁strong.",
+        "count": 2
+    },
+    {
+        "left": "▁f",
+        "right": "res",
+        "token": "▁fres",
+        "count": 2
+    },
+    {
+        "left": "▁fres",
+        "right": "h.",
+        "token": "▁fresh.",
+        "count": 2
+    },
+    {
+        "left": "um",
+        "right": "m",
+        "token": "umm",
+        "count": 2
+    },
+    {
+        "left": "▁w",
+        "right": "arm",
+        "token": "▁warm",
+        "count": 2
+    },
+    {
+        "left": "▁warm",
+        "right": ".",
+        "token": "▁warm.",
+        "count": 2
+    },
+    {
+        "left": "▁h",
+        "right": "ard",
+        "token": "▁hard",
+        "count": 2
+    },
+    {
+        "left": "▁hard",
+        "right": ".",
+        "token": "▁hard.",
+        "count": 2
+    },
+    {
+        "left": "▁to",
+        "right": "ugh.",
+        "token": "▁tough.",
+        "count": 2
+    },
+    {
+        "left": "l",
+        "right": "ass",
+        "token": "lass",
+        "count": 2
+    },
+    {
+        "left": "▁f",
+        "right": "ra",
+        "token": "▁fra",
+        "count": 2
+    },
+    {
+        "left": "▁fra",
+        "right": "g",
+        "token": "▁frag",
+        "count": 2
+    },
+    {
+        "left": "▁frag",
+        "right": "il",
+        "token": "▁fragil",
+        "count": 2
+    },
+    {
+        "left": "▁fragil",
+        "right": "e.",
+        "token": "▁fragile.",
+        "count": 2
+    },
+    {
+        "left": "▁woo",
+        "right": "d",
+        "token": "▁wood",
+        "count": 2
+    },
+    {
+        "left": "▁h",
+        "right": "ig",
+        "token": "▁hig",
+        "count": 2
+    },
+    {
+        "left": "▁hig",
+        "right": "h.",
+        "token": "▁high.",
+        "count": 2
+    },
+    {
+        "left": "w",
+        "right": ".",
+        "token": "w.",
+        "count": 2
+    },
+    {
+        "left": "▁s",
+        "right": "m",
+        "token": "▁sm",
+        "count": 2
+    },
+    {
+        "left": "▁f",
+        "right": "as",
+        "token": "▁fas",
+        "count": 2
+    },
+    {
+        "left": "▁fas",
+        "right": "t.",
+        "token": "▁fast.",
+        "count": 2
+    },
+    {
+        "left": "▁tra",
+        "right": "in",
+        "token": "▁train",
+        "count": 2
+    },
+    {
+        "left": "▁he",
+        "right": "av",
+        "token": "▁heav",
+        "count": 2
+    },
+    {
+        "left": "▁heav",
+        "right": "y.",
+        "token": "▁heavy.",
+        "count": 2
+    },
+    {
+        "left": "y",
+        "right": "c",
+        "token": "yc",
+        "count": 2
+    },
+    {
+        "left": "iv",
+        "right": "e.",
+        "token": "ive.",
+        "count": 2
+    },
+    {
+        "left": "id",
+        "right": "d",
+        "token": "idd",
+        "count": 2
+    },
+    {
+        "left": "ir",
+        "right": "on",
+        "token": "iron",
+        "count": 2
+    },
+    {
+        "left": "ol",
+        "right": "d",
+        "token": "old",
+        "count": 2
+    },
+    {
+        "left": "ast",
+        "right": "ic",
+        "token": "astic",
+        "count": 2
+    },
+    {
+        "left": "le",
+        "right": "x",
+        "token": "lex",
+        "count": 2
+    },
+    {
+        "left": "▁Trans",
+        "right": "form",
+        "token": "▁Transform",
+        "count": 2
+    },
+    {
+        "left": "▁A",
+        "right": "tt",
+        "token": "▁Att",
+        "count": 2
+    },
+    {
+        "left": "▁Att",
+        "right": "ent",
+        "token": "▁Attent",
+        "count": 2
+    },
+    {
+        "left": "▁weigh",
+        "right": "ts.",
+        "token": "▁weights.",
+        "count": 2
+    },
+    {
+        "left": "▁wor",
+        "right": "ds.",
+        "token": "▁words.",
+        "count": 2
+    },
+    {
+        "left": "▁L",
+        "right": "ay",
+        "token": "▁Lay",
+        "count": 2
+    },
+    {
+        "left": "N",
+        "right": "orm",
+        "token": "Norm",
+        "count": 2
+    },
+    {
+        "left": "ab",
+        "right": "il",
+        "token": "abil",
+        "count": 2
+    },
+    {
+        "left": "a",
+        "right": "x",
+        "token": "ax",
+        "count": 2
+    },
+    {
+        "left": "▁con",
+        "right": "ver",
+        "token": "▁conver",
+        "count": 2
+    },
+    {
+        "left": "▁En",
+        "right": "coders",
+        "token": "▁Encoders",
+        "count": 2
+    },
+    {
+        "left": "▁c",
+        "right": "ap",
+        "token": "▁cap",
+        "count": 2
+    },
+    {
+        "left": "▁cap",
+        "right": "tu",
+        "token": "▁captu",
+        "count": 2
+    },
+    {
+        "left": "▁captu",
+        "right": "re",
+        "token": "▁capture",
+        "count": 2
+    },
+    {
+        "left": "▁con",
+        "right": "t",
+        "token": "▁cont",
+        "count": 2
+    },
+    {
+        "left": "▁D",
+        "right": "ec",
+        "token": "▁Dec",
+        "count": 2
+    },
+    {
+        "left": "▁Dec",
+        "right": "o",
+        "token": "▁Deco",
+        "count": 2
+    },
+    {
+        "left": "▁Deco",
+        "right": "ders",
+        "token": "▁Decoders",
+        "count": 2
+    },
+    {
+        "left": "▁g",
+        "right": "ener",
+        "token": "▁gener",
+        "count": 2
+    },
+    {
+        "left": "▁gener",
+        "right": "ate",
+        "token": "▁generate",
+        "count": 2
+    },
+    {
+        "left": "▁",
+        "right": "K",
+        "token": "▁K",
+        "count": 2
+    },
+    {
+        "left": "▁ex",
+        "right": "tract",
+        "token": "▁extract",
+        "count": 2
+    },
+    {
+        "left": "▁A",
+        "right": "ct",
+        "token": "▁Act",
+        "count": 2
+    },
+    {
+        "left": "d",
+        "right": "uc",
+        "token": "duc",
+        "count": 2
+    },
+    {
+        "left": "▁",
+        "right": "O",
+        "token": "▁O",
+        "count": 2
+    },
+    {
+        "left": "t",
+        "right": "im",
+        "token": "tim",
+        "count": 2
+    },
+    {
+        "left": "▁",
+        "right": "B",
+        "token": "▁B",
+        "count": 2
+    },
+    {
+        "left": "▁def",
+        "right": "ine",
+        "token": "▁define",
+        "count": 2
+    },
+    {
+        "left": "an",
+        "right": "ce.",
+        "token": "ance.",
+        "count": 2
+    },
+    {
+        "left": "▁pro",
+        "right": "c",
+        "token": "▁proc",
+        "count": 2
+    },
+    {
+        "left": "▁proc",
+        "right": "ess",
+        "token": "▁process",
+        "count": 2
+    },
+    {
+        "left": "▁represent",
+        "right": "ations.",
+        "token": "▁representations.",
+        "count": 2
+    },
+    {
+        "left": "▁d",
+        "right": "im",
+        "token": "▁dim",
+        "count": 2
+    },
+    {
+        "left": "▁dim",
+        "right": "ens",
+        "token": "▁dimens",
+        "count": 2
+    },
+    {
+        "left": "▁dimens",
+        "right": "ions.",
+        "token": "▁dimensions.",
+        "count": 2
+    },
+    {
+        "left": "▁R",
+        "right": "eg",
+        "token": "▁Reg",
+        "count": 2
+    },
+    {
+        "left": "ul",
+        "right": "ar",
+        "token": "ular",
+        "count": 2
+    },
+    {
+        "left": "iz",
+        "right": "e",
+        "token": "ize",
+        "count": 2
+    },
+    {
+        "left": "▁",
+        "right": "I",
+        "token": "▁I",
+        "count": 2
+    },
+    {
+        "left": "▁I",
+        "right": "n",
+        "token": "▁In",
+        "count": 2
+    },
+    {
+        "left": "al",
+        "right": "izers",
+        "token": "alizers",
+        "count": 2
+    },
+    {
+        "left": "▁v",
+        "right": "alu",
+        "token": "▁valu",
+        "count": 2
+    },
+    {
+        "left": "▁valu",
+        "right": "es.",
+        "token": "▁values.",
+        "count": 2
+    },
+    {
+        "left": "ic",
+        "right": "s",
+        "token": "ics",
+        "count": 2
+    },
+    {
+        "left": "▁evalu",
+        "right": "ate",
+        "token": "▁evaluate",
+        "count": 2
+    },
+    {
+        "left": "▁le",
+        "right": "ar",
+        "token": "▁lear",
+        "count": 2
+    },
+    {
+        "left": "▁lear",
+        "right": "n",
+        "token": "▁learn",
+        "count": 2
+    },
+    {
+        "left": "▁C",
+        "right": "on",
+        "token": "▁Con",
+        "count": 2
+    },
+    {
+        "left": "▁m",
+        "right": "ean",
+        "token": "▁mean",
+        "count": 2
+    },
+    {
+        "left": "▁pro",
+        "right": "ject",
+        "token": "▁project",
+        "count": 2
+    },
+    {
+        "left": "▁qu",
+        "right": "er",
+        "token": "▁quer",
+        "count": 2
+    },
+    {
+        "left": "▁V",
+        "right": "alu",
+        "token": "▁Valu",
+        "count": 2
+    },
+    {
+        "left": "▁Valu",
+        "right": "es",
+        "token": "▁Values",
+        "count": 2
+    },
+    {
+        "left": "▁S",
+        "right": "t",
+        "token": "▁St",
+        "count": 2
+    },
+    {
+        "left": "ut",
+        "right": "ions",
+        "token": "utions",
+        "count": 2
+    },
+    {
+        "left": "ul",
+        "right": "ate",
+        "token": "ulate",
+        "count": 2
+    },
+    {
+        "left": "res",
+        "right": "s",
+        "token": "ress",
+        "count": 2
+    },
+    {
+        "left": "▁s",
+        "right": "em",
+        "token": "▁sem",
+        "count": 2
+    },
+    {
+        "left": "▁sem",
+        "right": "ant",
+        "token": "▁semant",
+        "count": 2
+    },
+    {
+        "left": "▁semant",
+        "right": "ics.",
+        "token": "▁semantics.",
+        "count": 2
+    },
+    {
+        "left": "st",
+        "right": "ruct",
+        "token": "struct",
+        "count": 2
+    },
+    {
+        "left": "▁ex",
+        "right": "ec",
+        "token": "▁exec",
+        "count": 2
+    },
+    {
+        "left": "▁exec",
+        "right": "ut",
+        "token": "▁execut",
+        "count": 2
+    },
+    {
+        "left": "▁execut",
+        "right": "e",
+        "token": "▁execute",
+        "count": 2
+    },
+    {
+        "left": "▁Ex",
+        "right": "p",
+        "token": "▁Exp",
+        "count": 2
+    },
+    {
+        "left": "yn",
+        "right": "t",
+        "token": "ynt",
+        "count": 2
+    },
+    {
+        "left": "▁milk",
+        "right": ".",
+        "token": "▁milk.",
+        "count": 1
+    },
+    {
+        "left": "▁r",
+        "right": "ice.",
+        "token": "▁rice.",
+        "count": 1
+    },
+    {
+        "left": "▁b",
+        "right": "an",
+        "token": "▁ban",
+        "count": 1
+    },
+    {
+        "left": "▁ban",
+        "right": "an",
+        "token": "▁banan",
+        "count": 1
+    },
+    {
+        "left": "▁banan",
+        "right": "a",
+        "token": "▁banana",
+        "count": 1
+    },
+    {
+        "left": "▁banana",
+        "right": "s.",
+        "token": "▁bananas.",
+        "count": 1
+    },
+    {
+        "left": "▁p",
+        "right": "ean",
+        "token": "▁pean",
+        "count": 1
+    },
+    {
+        "left": "▁pean",
+        "right": "uts.",
+        "token": "▁peanuts.",
+        "count": 1
+    },
+    {
+        "left": "▁m",
+        "right": "ang",
+        "token": "▁mang",
+        "count": 1
+    },
+    {
+        "left": "▁mang",
+        "right": "oes.",
+        "token": "▁mangoes.",
+        "count": 1
+    },
+    {
+        "left": "▁h",
+        "right": "one",
+        "token": "▁hone",
+        "count": 1
+    },
+    {
+        "left": "▁hone",
+        "right": "y.",
+        "token": "▁honey.",
+        "count": 1
+    },
+    {
+        "left": "▁sal",
+        "right": "m",
+        "token": "▁salm",
+        "count": 1
+    }
+]
