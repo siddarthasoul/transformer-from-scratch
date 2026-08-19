@@ -297,7 +297,7 @@ These experiments include:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/siddarthasoul/transformer-from-scratch.git
 cd transformer-from-scratch
 ```
 
